@@ -1,8 +1,8 @@
 ## Gebäudeenergiegesetz
 
-Dieses Repo dient zum einfachen Vergleich der Änderungen des Gebäudeenergiegesetzes in den Jahren 2021, 2024 und 2026 mithilfe der Commit-History.
+Dieses Repository dient zum einfachen Vergleich der Änderungen des Gebäudeenergiegesetzes in den Jahren 2021, 2024 und 2026 mithilfe der Commit-History.
 
-Dieses Repo eine GEG.md im Markdown-Format mit 3 Commits:
+Es enthält die GEG.md im Markdown-Format mit 3 Commits:
 - GEG vom Stand 2021 (GroKo-Version)
 - GEG vom Stand 2024 (Ampel-Version)
 - GEG vom Stand 2026 (GroKo-Version)
