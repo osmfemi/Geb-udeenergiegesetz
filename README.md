@@ -1,20 +1,16 @@
 ## Gebäudeenergiegesetz
 
-Dieses Repo dient zum einfachen Vergleich der Änderungen des Gebäudeenergiegesetzes in den Jahren 2021, 2025 und 2026 mithilfe der Commit-History.
+Dieses Repo dient zum einfachen Vergleich der Änderungen des Gebäudeenergiegesetzes in den Jahren 2021, 2024 und 2026 mithilfe der Commit-History.
 
-Dieses Repo das GEG im Markdown-Format mit 3 Commits:
-- GEG von 2021 (kurz vor Antritt der Ampel)
-- GEG von 2025 (vor Antritt der CDU/SPD-Koalition)
-- GEG von 2026 (Januar)
+Dieses Repo eine GEG.md im Markdown-Format mit 3 Commits:
+- GEG vom Stand 2021 (GroKo-Version)
+- GEG vom Stand 2024 (Ampel-Version)
+- GEG vom Stand 2026 (GroKo-Version)
 
-- Zum Vergleich der Änderungen des GEGs einfach die Commit History verwenden und die einzelnen Änderungen vergleichen.
+- Zum Vergleich der Änderungen des GEGs einfach die Commit-History verwenden und die einzelnen Änderungen vergleichen.
 
-Die Gesetzestexte sind aus den PDF-Versionen, die auf der Seite https://www.gesetze-im-internet.de/geg/ zu finden sind, sowie die archivierten Versionen im Web Archiv (web.archive.org), im Einzelnen:
+Die Gesetzestexte sind aus den XML-Versionen, die auf der Seite https://www.gesetze-im-internet.de/geg/ zu finden sind, sowie die archivierten Versionen im Web Archiv (web.archive.org), im Einzelnen:
 
-- https://web.archive.org/web/20210720221050if_/http://www.gesetze-im-internet.de/geg/GEG.pdf (Stand Juli 2021)
-- https://web.archive.org/web/20250117152017if_/https://www.gesetze-im-internet.de/geg/GEG.pdf (Stand Januar 2025)
-- https://www.gesetze-im-internet.de/geg/GEG.pdf (Stand Februar 2026)
+Die Texte wurden mit dem Pyhton-Script lawdown.md (https://github.com/bundestag/gesetze-tools/blob/master/lawdown.py) ins Markdown-Format konvertiert.
 
-Die Texte wurden mit https://pdf2md.morethan.io/ ins Markdown-Format konvertiert.
-
-Diese Repo ist WIP und kann noch etwas unpolished sein.
+Hinweis: Die Repo ist noch WIP und kann eventuell fehlerhafte Formatierungen enthalten.
