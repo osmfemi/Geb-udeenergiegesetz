@@ -1,1 +1,1 @@
-# Geb-udeenergiegesetz
+# Gebäudeenergiegesetz
