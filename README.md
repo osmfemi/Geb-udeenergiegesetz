@@ -1,5 +1,5 @@
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 # Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer
 
@@ -13,11 +13,11 @@ Ausfertigungsdatum: 08.08.
 
 Vollzitat:
 
-"Gebäudeenergiegesetz vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 1 des Gesetzes vom 16.
-Oktober 2023 (BGBl. 2023 I Nr. 280) geändert worden ist"
+"Gebäudeenergiegesetz vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 3 des Gesetzes vom 9.
+Januar 2026 (BGBl. 2026 I Nr. 4) geändert worden ist"
 
 ```
-Stand: Zuletzt geändert durch Art. 1 G v. 16.10.2023 I Nr. 280
+Stand: Zuletzt geändert durch Art. 3 G v. 9.1.2026 I Nr. 4
 Die §§ 60b u. 60c treten gem. Art. 6 Abs. 2 G v. 16.10.2023 I Nr. 280 am 1.10.2024 in Kraft
 ```
 ```
@@ -36,6 +36,7 @@ L 328 vom 21.12.2018, S. 82).
 **Fußnote**
 
 (+++ Textnachweis ab: 1.11.2020 +++)
+
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 Umsetzung der
 EURL 31/2010 (CELEX Nr: 32010L0031)
@@ -43,12 +44,18 @@ EURL 2018/844 (CELEX Nr: 32018L0844)
 EURL 2018/2002 (CELEX Nr: 32018L2002)
 EURL 2018/2001 (CELEX Nr: 32018L2001) +++)
 
-(+++ § 60a Abs. 5 Satz 4: Zur Anwendung ab 1.10.2024 vgl. § 60b Abs. 5 Satz 4 u. § 60c Abs. 4 Satz 3 +++) (++
-+ § 71f Abs. 2 bis 4: Zur Anwendung ab 1.1.2024 vgl. § 71 Abs. 9 Satz 2 +++) (+++ § 71i Satz 2: Zur Anwendung
-ab 1.1.2024 vgl. § 71l Abs. 1 Satz 2, § 71m Abs. 1 Satz 3 u. § 71m Abs. 2 Satz 4 +++) (+++ § 71l Abs. 4 u. 5: Zur
-Anwendung ab 1.1.2024 vgl. § 71n Abs. 6 Satz 2 +++) (+++ § 72 Abs. 4: Zur Anwendung ab 1.1.2024 vgl. § 73
-Abs. 3 +++) (+++ § 108 Abs. 1 Nr. 12 u. 16 bis 19, Abs. 2 Satz 1 Nr. 3 Buchst. b u. Satz 2: Zur Nichtanwendung
-ab 1.1.2024 vgl. § 115 +++)
+(+++ § 60a Abs. 5 Satz 4: Zur Anwendung ab 1.10.2024 vgl. § 60b Abs. 5 Satz 4
+u. § 60c Abs. 4 Satz 3 +++)
+(+++ § 71f Abs. 2 bis 4: Zur Anwendung ab 1.1.2024 vgl. § 71 Abs. 9 Satz 2 +++)
+(+++ § 71i Satz 2: Zur Anwendung ab 1.1.2024 vgl. § 71l Abs. 1 Satz 2, § 71m
+Abs. 1 Satz 3 u. § 71m Abs. 2 Satz 4 +++)
+(+++ § 71l Abs. 4 u. 5: Zur Anwendung ab 1.1.2024 vgl. § 71n Abs. 6 Satz 2 +++)
+(+++ § 72 Abs. 4: Zur Anwendung ab 1.1.2024 vgl. § 73 Abs. 3 +++)
+(+++ § 108 Abs. 1 Nr. 12 u. 16 bis 19, Abs. 2 Satz 1 Nr. 3 Buchst. b u. Satz 2:
+Zur Nichtanwendung ab 1.1.2024 vgl. § 115 +++)
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.1.2026 I Nr. 4 +++)
+
 Das G wurde als Artikel 1 des G v. 8.8.2020 I 1728 vom Bundestag beschlossen. Es ist gem. Art. 10 Abs. 1 Satz 1
 dieses G am 1.11.2020 in Kraft getreten.
 
@@ -60,15 +67,16 @@ Teil 1
 ```
 Allgemeiner Teil
 ```
-```
-§ 1 Zweck und Ziel
-§ 2 Anwendungsbereich
-§ 3 Begriffsbestimmungen
-```
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
+§ 1 Zweck und Ziel
+
+§ 2 Anwendungsbereich
+
+§ 3 Begriffsbestimmungen
+
 § 4 Vorbildfunktion der öffentlichen Hand
 
 § 5 Grundsatz der Wirtschaftlichkeit
@@ -128,15 +136,15 @@ Wohngebäude
 
 § 17 Aneinandergereihte Bebauung
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 ```
 Unterabschnitt 2
 ```
 ```
 Nichtwohngebäude
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
 ```
 § 18 Gesamtenergiebedarf
 
@@ -200,6 +208,10 @@ Abschnitt 4
 
 § 41 (weggefallen)
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 § 42 (weggefallen)
 
 § 43 (weggefallen)
@@ -208,10 +220,6 @@ Abschnitt 4
 
 § 45 (weggefallen)
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 ```
 Teil 3
 ```
@@ -270,15 +278,15 @@ energetischen Qualität bestehender Anlagen
 ```
 Unterabschnitt 1
 ```
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 ```
 Veränderungsverbot
 ```
 § 57 Verbot von Veränderungen; entgegenstehende Rechtsvorschriften
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 ```
 Unterabschnitt 2
 ```
@@ -336,6 +344,10 @@ Klimaanlagen und sonstige Anlagen der Raumlufttechnik
 ```
 Unterabschnitt 3
 ```
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 ```
 Wärmedämmung von Rohrleitungen und Armaturen
 ```
@@ -343,10 +355,6 @@ Wärmedämmung von Rohrleitungen und Armaturen
 
 § 70 Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 ```
 Unterabschnitt 4
 ```
@@ -409,15 +417,15 @@ Energetische Inspektion von Klimaanlagen
 
 § 78 Inspektionsbericht; Registriernummern
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 ```
 Teil 5
 ```
 ```
 Energieausweise
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
 ```
 § 79 Grundsätze des Energieausweises
 
@@ -480,6 +488,10 @@ Vollzug
 
 § 101 Verordnungsermächtigung; Erfahrungsberichte der Länder
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 § 102 Befreiungen
 
 § 103 Innovationsklausel
@@ -489,54 +501,69 @@ Teil 8
 ```
 ```
 Besondere Gebäude,
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
 Bußgeldvorschriften, Anschluss- und Benutzungszwang
 ```
-```
 § 104 Kleine Gebäude und Gebäude aus Raumzellen
+
 § 105 Baudenkmäler und sonstige besonders erhaltenswerte Bausubstanz
+
 § 106 Gemischt genutzte Gebäude
+
 § 107 Wärmeversorgung im Quartier
+
 § 108 Bußgeldvorschriften
+
 § 109 Anschluss- und Benutzungszwang
-```
+
 ```
 Teil 9
 ```
 ```
 Übergangsvorschriften
 ```
-```
 § 110 Anforderungen an Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der
 Warmwasserversorgung und an Anlagen zur Nutzung erneuerbarer Energien
+
 § 111 Allgemeine Übergangsvorschriften
+
 § 112 Übergangsvorschriften für Energieausweise
+
 § 113 Übergangsvorschriften für Aussteller von Energieausweisen
+
 § 114 Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch
 das Deutsche Institut für Bautechnik
+
 § 115 Übergangsvorschrift für Geldbußen
-```
-```
+
 Anlage  1 Technische Ausführung des Referenzgebäudes (Wohngebäude)
+
 Anlage  2 Technische Ausführung des Referenzgebäudes (Nichtwohngebäude)
+
 Anlage  3 Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden
 Umfassungsfläche (Nichtwohngebäude)
+
 Anlage  4 Primärenergiefaktoren
+
 Anlage  5 Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude
+
 Anlage  6 Zu verwendendes Nutzungsprofil für die Berechnungen des Jahres-Primärenergiebedarfs
 beim vereinfachten Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude
+
 Anlage  7 Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an
 bestehenden Gebäuden
+
 Anlage  8 Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen
+
 Anlage  9 Umrechnung in Treibhausgasemissionen
+
 Anlage 10 Energieeffizienzklassen von Wohngebäuden
+
 Anlage 11 Anforderungen an die Inhalte der Schulung für die Berechtigung zur Ausstellung von
 Energieausweisen
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ## Teil 1
 
@@ -546,11 +573,6 @@ Energieausweisen
 
 (1) Ziel dieses Gesetzes ist es, einen wesentlichen Beitrag zur Erreichung der nationalen Klimaschutzziele zu
 leisten. Dies soll durch wirtschaftliche, sozialverträgliche und effizienzsteigernde Maßnahmen zur Einsparung
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 von Treibhausgasemissionen sowie der zunehmenden Nutzung von erneuerbaren Energien oder unvermeidbarer
 Abwärme für die Energieversorgung von Gebäuden erreicht werden.
 
@@ -599,6 +621,10 @@ Der Energieeinsatz für Produktionsprozesse in Gebäuden ist nicht Gegenstand di
        a)  auf eine Raum-Solltemperatur von weniger als 12 Grad Celsius beheizt werden oder
        b)  jährlich weniger als vier Monate beheizt sowie jährlich weniger als zwei Monate gekühlt werden.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (3) Auf Bestandteile von Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung, die
 sich nicht im räumlichen Zusammenhang mit Gebäuden nach Absatz 1 Satz 1 Nummer 1 befinden, ist dieses Gesetz
 nicht anzuwenden.
@@ -607,10 +633,6 @@ nicht anzuwenden.
 
 (1) Im Sinne dieses Gesetzes ist
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 1.   „Abwärme“ die Wärme oder Kälte, die aus technischen Prozessen und aus baulichen Anlagen
     stammenden Abluft- und Abwasserströmen entnommen wird,
 2.   „Aperturfläche“ die Lichteintrittsfläche einer solarthermischen Anlage,
@@ -618,34 +640,33 @@ Justiz ‒ http://www.gesetze-im-internet.de
     Gebäudemehrheit,
 4.   „beheizter Raum“ ein Raum, der nach seiner Zweckbestimmung direkt oder durch Raumverbund beheizt
     wird,
-
 4a.   „blauer Wasserstoff“ Wasserstoff, der durch Reformation oder Pyrolyse aus Erdgas hergestellt wird
-und der den nach Maßgabe der Delegierten Verordnung (EU) 2021/2139 der Kommission vom 4. Juni
-2021 zur Ergänzung der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates
-durch Festlegung der technischen Bewertungskriterien, anhand deren bestimmt wird, unter welchen
-Bedingungen davon auszugehen ist, dass eine Wirtschaftstätigkeit einen wesentlichen Beitrag zum
-Klimaschutz oder zur Anpassung an den Klimawandel leistet, und anhand deren bestimmt wird, ob
-diese Wirtschaftstätigkeit erhebliche Beeinträchtigungen eines der übrigen Umweltziele vermeidet
-(ABl. L 442 vom 9.12.2021, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/1214 (ABl.
-L 188 vom 15.7.2022, S. 1) geändert worden ist, geltenden technischen Bewertungskriterien zum
-Nachweis des wesentlichen Beitrags zum Klimaschutz genügt; in Bezug auf die Verringerung von
-Treibhausgasemissionen (THG-Emissionen) muss danach der Mindestschwellenwert für die Einsparung
-der Lebenszyklus-THG-Emissionen von 73,4 Prozent gegenüber einem Vergleichswert für fossile
-Brennstoffe erreicht werden; gemäß der Delegierten Verordnung (EU) 2021/2139 zur Ergänzung
-der Verordnung (EU) 2020/852 (Taxonomieverordnung) ist diese Verringerung gegenüber einem
-Vergleichswert von 94 Gramm Kohlendioxidäquivalent pro Megajoule nachzuweisen, indem das
-entstehende Kohlendioxid abgeschieden und gespeichert oder in Produkten dauerhaft gebunden wird;
-für die Erfüllung der Nachweispflicht für die dauerhafte Speicherung oder Bindung des Kohlendioxids
-gelten die Vorgaben gemäß der Durchführungsverordnung (EU) 2018/2066 der Kommission vom 19.
-Dezember 2018 über die Überwachung von und die Berichterstattung über Treibhausgasemissionen
-gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates und zur Änderung der
-Verordnung (EU) Nr. 601/2012 der Kommission (ABl. L 334 vom 31.12.2018, S. 1), die zuletzt durch
-die Delegierte Verordnung (EU) 2021/2139 (ABl. L 442 vom 9.12.2021, S. 1) geändert worden ist, oder
-entsprechende EU-Vorgaben; die Einsparungen bei den Lebenszyklus-Treibhausgasemissionen werden
-nach der in Artikel 28 Absatz 5 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des
-Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl.
-L 328 vom 21.12.2018, S. 82; L 139 vom 18.5.2022, S. 1) genannten Methode oder alternativ gemäß
-DIN EN ISO 14067:2018 (119)
+    und der den nach Maßgabe der Delegierten Verordnung (EU) 2021/2139 der Kommission vom 4. Juni
+    2021 zur Ergänzung der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates
+    durch Festlegung der technischen Bewertungskriterien, anhand deren bestimmt wird, unter welchen
+    Bedingungen davon auszugehen ist, dass eine Wirtschaftstätigkeit einen wesentlichen Beitrag zum
+    Klimaschutz oder zur Anpassung an den Klimawandel leistet, und anhand deren bestimmt wird, ob
+    diese Wirtschaftstätigkeit erhebliche Beeinträchtigungen eines der übrigen Umweltziele vermeidet
+    (ABl. L 442 vom 9.12.2021, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/1214 (ABl.
+    L 188 vom 15.7.2022, S. 1) geändert worden ist, geltenden technischen Bewertungskriterien zum
+    Nachweis des wesentlichen Beitrags zum Klimaschutz genügt; in Bezug auf die Verringerung von
+    Treibhausgasemissionen (THG-Emissionen) muss danach der Mindestschwellenwert für die Einsparung
+    der Lebenszyklus-THG-Emissionen von 73,4 Prozent gegenüber einem Vergleichswert für fossile
+    Brennstoffe erreicht werden; gemäß der Delegierten Verordnung (EU) 2021/2139 zur Ergänzung
+    der Verordnung (EU) 2020/852 (Taxonomieverordnung) ist diese Verringerung gegenüber einem
+    Vergleichswert von 94 Gramm Kohlendioxidäquivalent pro Megajoule nachzuweisen, indem das
+    entstehende Kohlendioxid abgeschieden und gespeichert oder in Produkten dauerhaft gebunden wird;
+    für die Erfüllung der Nachweispflicht für die dauerhafte Speicherung oder Bindung des Kohlendioxids
+    gelten die Vorgaben gemäß der Durchführungsverordnung (EU) 2018/2066 der Kommission vom 19.
+    Dezember 2018 über die Überwachung von und die Berichterstattung über Treibhausgasemissionen
+    gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates und zur Änderung der
+    Verordnung (EU) Nr. 601/2012 der Kommission (ABl. L 334 vom 31.12.2018, S. 1), die zuletzt durch
+    die Delegierte Verordnung (EU) 2021/2139 (ABl. L 442 vom 9.12.2021, S. 1) geändert worden ist, oder
+    entsprechende EU-Vorgaben; die Einsparungen bei den Lebenszyklus-Treibhausgasemissionen werden
+    nach der in Artikel 28 Absatz 5 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des
+    Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl.
+    L 328 vom 21.12.2018, S. 82; L 139 vom 18.5.2022, S. 1) genannten Methode oder alternativ gemäß
+    DIN EN ISO 14067:2018 (119)
 
 ### *
 
@@ -666,27 +687,25 @@ diese anzuwenden,
     weisenden vertikalen Flächen ein Anteil von 80 Prozent oder mehr an ein anderes Wohngebäude oder
     ein Nichtwohngebäude mit einer Raum-Solltemperatur von mindestens 19 Grad Celsius angrenzt,
 7.   „Elektroenergiebedarf für Nutzeranwendungen“ die weiteren Elektroenergieverbräuche nach DIN V
-
-```
-18599-9: 2018-09* ,
-```
+    18599-9: 2018-09* ,
 8.   „Energiebedarfsausweis“ ein Energieausweis, der auf der Grundlage des berechneten Energiebedarfs
     ausgestellt wird,
-
 8a.   „Energieleistungsvertrag“ eine vertragliche Vereinbarung zwischen dem Begünstigten und dem
-Erbringer einer Maßnahme zur Energieeffizienzverbesserung, die während der gesamten Vertragslaufzeit
+    Erbringer einer Maßnahme zur Energieeffizienzverbesserung, die während der gesamten Vertragslaufzeit
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
 einer Überprüfung und Überwachung unterliegt und in deren Rahmen Investitionen für Arbeiten,
 Lieferungen oder Dienstleistungen in die betreffende Maßnahme zur Energieeffizienzverbesserung in
 Bezug auf einen vertraglich vereinbarten Umfang an Energieeffizienzverbesserungen oder ein anderes
 vereinbartes Energieleistungskriterium, wie finanzielle Einsparungen, getätigt werden,
-
+```
 9.   „Energieverbrauchsausweis“ ein Energieausweis, der auf der Grundlage des erfassten Energieverbrauchs
     ausgestellt wird,
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 9a.   „Gebäudenetz“ ein Netz zur ausschließlichen Versorgung mit Wärme und Kälte von mindestens zwei und
 bis zu 16 Gebäuden und bis zu 100 Wohneinheiten,
 
@@ -743,17 +762,17 @@ Nummer 2 Buchstabe d der Verordnung über kleine und mittlere Feuerungsanlagen v
 20.   „Nah-/Fernkälte“ die Kälte, die mittels eines Kälteträgers durch ein Kältenetz verteilt wird,
 21.   „Nennleistung“ die vom Hersteller festgelegte und im Dauerbetrieb unter Beachtung des vom Hersteller
     angegebenen Wirkungsgrades als einhaltbar garantierte größte Wärme- oder Kälteleistung in Kilowatt,
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 22.   „Nettogrundfläche“ die Nutzfläche eines Nichtwohngebäudes nach DIN V 18599: 2018-09, die beheizt
     oder gekühlt wird,
 23.   „Nichtwohngebäude“ ein Gebäude, das nicht unter Nummer 33 fällt,
 24.   „Niedertemperatur-Heizkessel“ ein Heizkessel, der kontinuierlich mit einer Eintrittstemperatur von 35
     Grad Celsius bis 40 Grad Celsius betrieben werden kann und in dem es unter bestimmten Umständen zur
     Kondensation des in den Abgasen enthaltenen Wasserdampfes kommen kann,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 25.   „Niedrigstenergiegebäude“ ein Gebäude, das eine sehr gute Gesamtenergieeffizienz aufweist und
     dessen Energiebedarf sehr gering ist und, soweit möglich, zu einem ganz wesentlichen Teil durch
     Energie aus erneuerbaren Quellen gedeckt werden soll,
@@ -800,17 +819,17 @@ Justiz ‒ http://www.gesetze-im-internet.de
 (2) Erneuerbare Energien im Sinne dieses Gesetzes ist oder sind
 
 1.   Geothermie,
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 2.   Umweltwärme,
 3.   die technisch durch im unmittelbaren räumlichen Zusammenhang mit dem Gebäude stehenden Anlagen
     zur Erzeugung von Strom aus solarer Strahlungsenergie oder durch solarthermische Anlagen zur Wärme-
     oder Kälteerzeugung nutzbar gemachte Energie,
 4.   die technisch durch gebäudeintegrierte Windkraftanlagen zur Wärme- oder Kälteerzeugung nutzbar
     gemachte Energie,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 5.   die aus fester, flüssiger oder gasförmiger Biomasse erzeugte Wärme; die Abgrenzung erfolgt nach dem
     Aggregatzustand zum Zeitpunkt des Eintritts der Biomasse in den Wärmeerzeuger,
 6.   die aus grünem Wasserstoff oder den daraus hergestellten Derivaten erzeugte Wärme oder
@@ -863,17 +882,16 @@ Bundes, eigene Regelungen zur Erfüllung der Vorbildfunktion treffen und zu dies
 dieses Gesetzes hinausgehen. Hiervon ausgenommen sind Vorgaben für die Berechnungsgrundlagen und -
 verfahren nach Teil 2 Abschnitt 3.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **§ 5 Grundsatz der Wirtschaftlichkeit**
 
 Die Anforderungen und Pflichten, die in diesem Gesetz oder in den auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen aufgestellt werden, müssen nach dem Stand der Technik erfüllbar sowie für Gebäude
 gleicher Art und Nutzung und für Anlagen oder Einrichtungen wirtschaftlich vertretbar sein. Anforderungen und
 Pflichten gelten als wirtschaftlich vertretbar, wenn generell die erforderlichen Aufwendungen innerhalb der üblichen
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Nutzungsdauer durch die eintretenden Einsparungen erwirtschaftet werden können. Bei bestehenden Gebäuden,
 Anlagen und Einrichtungen ist die noch zu erwartende Nutzungsdauer zu berücksichtigen.
 
@@ -928,6 +946,11 @@ hierbei unter angemessener Berücksichtigung der beiderseitigen Interessen
 
 1.   die Bestimmungen der Verträge einheitlich festsetzen,
 2.   Regelungen über den Vertragsschluss, den Gegenstand und die Beendigung der Verträge treffen sowie
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 3.   die Rechte und Pflichten der Vertragsparteien festlegen.
 
 Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich gestalteter Versorgungsverhältnisse mit Ausnahme
@@ -935,10 +958,6 @@ der Regelung des Verwaltungsverfahrens.
 
 **§ 7 Regeln der Technik**
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann gemeinsam mit dem Bundesministerium für
 Wohnen, Stadtentwicklung und Bauwesen durch Bekanntmachung im Bundesanzeiger auf Veröffentlichungen
 sachverständiger Stellen über anerkannte Regeln der Technik hinweisen, soweit in diesem Gesetz auf solche
@@ -955,15 +974,14 @@ wesentlich von ihnen abgewichen wird, sind der nach Landesrecht zuständigen Beh
 Nachweise für eine anderweitige Bewertung vorzulegen. Satz 1 ist nicht anzuwenden auf Baustoffe, Bauteile und
 Anlagen,
 
-1.   wenn für sie die Bewertung auch im Hinblick auf die Anforderungen zur Energieeinsparung im Sinne
-    dieses Gesetzes durch die Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates
-    vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und
-    zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5; L 103 vom 12.4.2013,
-    S. 10; L 92 vom 8.4.2015, S. 118), die zuletzt durch die Delegierte Verordnung (EU) Nr. 574/2014 (ABl. L
-    159 vom 28.5.2014, S. 41) geändert worden ist, oder durch nationale Rechtsvorschriften zur Umsetzung
-    oder Durchführung von Rechtsvorschriften der Europäischen Union gewährleistet wird, erforderliche
-    CE-Kennzeichnungen angebracht wurden und nach den genannten Vorschriften zulässige Klassen und
-    Leistungsstufen nach Maßgabe landesrechtlicher Vorschriften eingehalten werden oder
+1.   wenn für sie die nachstehenden Voraussetzungen erfüllt sind:
+    a)   die Bewertung wird auch im Hinblick auf die Anforderungen zur Energieeinsparung im Sinne dieses
+       Gesetzes durch die Verordnung (EU) Nr. 305/2011 oder die Verordnung (EU) 2024/3110 oder
+       durch nationale Rechtsvorschriften zur Umsetzung oder Durchführung von Rechtsvorschriften der
+       Europäischen Union gewährleistet,
+    b)   die erforderlichen CE-Kennzeichnungen wurden angebracht und
+    c)   die nach den in Buchstabe a genannten Vorschriften zulässigen Klassen und Leistungsstufen
+       werden nach Maßgabe landesrechtlicher Vorschriften eingehalten oder
 2.   bei denen nach bauordnungsrechtlichen Vorschriften über die Verwendung von Bauprodukten auch die
     Einhaltung dieses Gesetzes sichergestellt wird.
 
@@ -975,6 +993,10 @@ technischen Regel entspricht.
 Stadtentwicklung und Bauwesen werden dem Deutschen Bundestag bis zum 31. Dezember 2022 gemeinsam
 einen Bericht über die Ergebnisse von Forschungsprojekten zu Methodiken zur ökobilanziellen Bewertung von
 Wohn- und Nichtwohngebäuden vorlegen.
+
+**Fußnote**
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.1.2026 I Nr. 4 +++)
 
 **§ 8 Verantwortliche**
 
@@ -990,6 +1012,11 @@ Gebäuden oder der Anlagentechnik in Gebäuden tätig werden.
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen,
 Stadtentwicklung und Bauwesen werden die Anforderungen an zu errichtende Gebäude nach Teil 2 und die
 Anforderungen an bestehende Gebäude nach Teil 3 Abschnitt 1 nach Maßgabe von § 5 und unter Wahrung
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 des Grundsatzes der Technologieoffenheit im Jahr 2023 überprüfen und nach Maßgabe der Ergebnisse der
 Überprüfung innerhalb von sechs Monaten nach Abschluss der Überprüfung einen Gesetzgebungsvorschlag
 für eine Weiterentwicklung der Anforderungen an zu errichtende und bestehende Gebäude vorlegen. Die
@@ -1001,10 +1028,6 @@ auf welche Weise und in welchem Umfang synthetisch erzeugte Energieträger in fl
 Form bei der Erfüllung der Anforderungen an zu errichtende Gebäude nach Teil 2 und bei der Erfüllung der
 Anforderungen an bestehende Gebäude nach Teil 3 Abschnitt 1 Berücksichtigung finden können.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 9a Länderregelung**
 
 Die Länder können durch Landesrecht weitergehende Anforderungen an die Erzeugung und Nutzung von Strom
@@ -1057,6 +1080,10 @@ Maßnahmen so gering wie möglich gehalten wird.
 
 **§ 13 Dichtheit**
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Ein Gebäude ist so zu errichten, dass die wärmeübertragende Umfassungsfläche einschließlich der Fugen dauerhaft
 luftundurchlässig nach den anerkannten Regeln der Technik abgedichtet ist. Öffentlich-rechtliche Vorschriften über
 den zum Zweck der Gesundheit und Beheizung erforderlichen Mindestluftwechsel bleiben unberührt.
@@ -1068,10 +1095,6 @@ Wärmeschutz nach den anerkannten Regeln der Technik begrenzt wird. Bei der Ermi
 sommerlichen Wärmeschutzes nach den Absätzen 2 und 3 bleiben die öffentlich-rechtlichen Vorschriften über die
 erforderliche Tageslichtversorgung unberührt.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (2) Ein ausreichender sommerlicher Wärmeschutz nach Absatz 1 liegt vor, wenn die Anforderungen nach DIN 4108-
 2: 2013-02 Abschnitt 8 eingehalten werden und die rechnerisch ermittelten Werte des Sonnenenergieeintrags
 über transparente Bauteile in Gebäude (Sonneneintragskennwert) die in DIN 4108-2: 2013-02 Abschnitt 8.3.
@@ -1127,6 +1150,10 @@ Werden aneinandergereihte Wohngebäude gleichzeitig errichtet, dürfen sie hinsi
 
 ## Unterabschnitt 2
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 ## Nichtwohngebäude
 
 **§ 18 Gesamtenergiebedarf**
@@ -1139,10 +1166,6 @@ errichtende Gebäude aufweist und der technischen Referenzausführung der Anlage
 Die technische Referenzausführung in der Anlage 2 Nummer 1.13 bis 9 ist nur insoweit zu berücksichtigen, wie eines
 der dort genannten Systeme in dem zu errichtenden Gebäude ausgeführt wird.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (2) Der Höchstwert des Jahres-Primärenergiebedarfs nach Absatz 1 eines zu errichtenden Nichtwohngebäudes ist
 nach Maßgabe der §§ 21 bis 24, des § 25 Absatz 1, 2 und 4 bis 8, der §§ 26 und 27, des § 30 und der §§ 32 und
 33 zu berechnen.
@@ -1195,6 +1218,10 @@ Strahlungsenergie sowie Umweltwärme gedeckt werden.
 (5) Abweichend von DIN V 18599-1: 2018-09 ist bei der Berechnung des Primärenergiebedarfs der Endenergiebedarf
 für elektrische Nutzeranwendungen in der Bilanzierung nicht zu berücksichtigen.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (6) Werden in den Berechnungen nach den Absätzen 1 und 2 Wärmedurchgangskoeffizienten berechnet, sind
 folgende Berechnungsverfahren anzuwenden:
 
@@ -1205,11 +1232,6 @@ folgende Berechnungsverfahren anzuwenden:
 **Fußnote**
 
 (+++ § 20 Abs. 3 bis 6: Zur Anwendung vgl. § 21 Abs. 4 +++)
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (+++ § 20 Abs. 3: Zur Anwendung vgl. § 32 Abs. 8 +++)
 
 **§ 21 Berechnung des Jahres-Primärenergiebedarfs eines Nichtwohngebäudes**
@@ -1259,20 +1281,22 @@ Anteil zu verwenden:
           erfolgt, oder
        b)   der Wert 0,5 verwendet werden, wenn die Nutzung des Biomethans in einer hocheffizienten KWK-
           Anlage im Sinne des § 2 Nummer 8a des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015
-          (BGBl. I S. 2498), das zuletzt durch Artikel 266 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328)
-          geändert worden ist, erfolgt, und wenn
-       c)   bei der Aufbereitung und Einspeisung des Biomethans die Voraussetzungen nach Anlage 1
-          Nummer 1 Buchstabe a bis c des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S.
-          2074) in der am 31. Juli 2014 geltenden Fassung erfüllt worden sind, und
-       d)   die Menge des entnommenen Biomethans im Wärmeäquivalent am Ende eines Kalenderjahres der
-          Menge von Gas aus Biomasse entspricht, das an anderer Stelle in das Gasnetz eingespeist worden
-          ist, und Massenbilanzsysteme für den gesamten Transport und Vertrieb des Biomethans von seiner
-          Herstellung über seine Einspeisung in das Erdgasnetz und seinen Transport im Erdgasnetz bis zu
-          seiner Entnahme aus dem Erdgasnetz verwendet worden sind,
 
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
+(BGBl. I S. 2498), das zuletzt durch Artikel 266 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328)
+geändert worden ist, erfolgt, und wenn
+c)   bei der Aufbereitung und Einspeisung des Biomethans die Voraussetzungen nach Anlage 1
+Nummer 1 Buchstabe a bis c des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S.
+2074) in der am 31. Juli 2014 geltenden Fassung erfüllt worden sind, und
+d)   die Menge des entnommenen Biomethans im Wärmeäquivalent am Ende eines Kalenderjahres der
+Menge von Gas aus Biomasse entspricht, das an anderer Stelle in das Gasnetz eingespeist worden
+ist, und Massenbilanzsysteme für den gesamten Transport und Vertrieb des Biomethans von seiner
+Herstellung über seine Einspeisung in das Erdgasnetz und seinen Transport im Erdgasnetz bis zu
+seiner Entnahme aus dem Erdgasnetz verwendet worden sind,
 ```
 3.   für gasförmige Biomasse, die unter Druck verflüssigt worden ist (biogenes Flüssiggas) und in zu
     errichtenden Gebäuden eingesetzt wird, kann abweichend von Anlage 4 Nummer 6 für den nicht
@@ -1319,6 +1343,11 @@ der Großwärmepumpe der Primärenergiefaktor für den nicht erneuerbaren Anteil
 einem Wärmenetz Wärme genutzt, die in einer KWK-Anlage erzeugt wird, kann der ermittelte und veröffentlichte
 Wert nach Satz 1 verwendet werden, wenn das Fernwärmeversorgungsunternehmen zur Ermittlung des
 Primärenergiefaktors der Wärme aus der KWK-Anlage das Berechnungsverfahren nach DIN V 18599-1: 2018-
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 09 Anhang A Abschnitt A.4 mit den Primärenergiefaktoren der Anlage 4 angewendet und die Anwendung dieser
 Methode in der Veröffentlichung angegeben hat.
 
@@ -1332,11 +1361,6 @@ Veröffentlichung angegeben hat.
 (4) Hat das Fernwärmeversorgungsunternehmen den Primärenergiefaktor für den Wärmeträger in dem
 Wärmenetz, an das das zu errichtende Gebäude angeschlossen wird, nicht ermittelt und veröffentlicht, kann als
 Primärenergiefaktor der Wert für den nicht erneuerbaren Anteil verwendet werden, der in den nach § 20 Absatz
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 1 oder Absatz 2 und nach § 21 Absatz 1 und 2 zur Ermittlung des Jahres-Primärenergiebedarfs zu verwendenden
 Berechnungsverfahren für die genutzte Fernwärme aufgeführt ist.
 
@@ -1385,6 +1409,11 @@ oder Kategorie B verwendet werden.
 (1) Bei den Berechnungen für die Ermittlung des Jahres-Primärenergiebedarfs nach § 20 Absatz 1 oder Absatz 2
 und nach § 21 Absatz 1 und 2 ist für das zu errichtende Gebäude eine Ausstattung mit einem System für die
 Gebäudeautomation der Klasse C nach DIN V 18599-11: 2018-09 zugrunde zu legen. Eine Gebäudeautomation der
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Klassen A oder B nach DIN V 18599-11: 2018-09 kann zugrunde gelegt werden, wenn das zu errichtende Gebäude
 mit einem System einer dieser Klassen ausgestattet ist.
 
@@ -1401,10 +1430,6 @@ sind für das zu errichtende Nichtwohngebäude die in DIN V 18599-10: 2018-09 Ta
 Nutzungsrandbedingungen und Klimadaten zu verwenden; bei der Berechnung des Referenzgebäudes müssen die
 in DIN V 18599-10: 2018-09 Tabelle 5 enthaltenen Werte angesetzt werden.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (5) Bei den Berechnungen für die Ermittlung des Jahres-Primärenergiebedarfs nach § 21 Absatz 1 und 2 sind für das
 zu errichtende Nichtwohngebäude und das Referenzgebäude bei Heizsystemen in Raumhöhen von 4 Metern oder
 weniger ein Absenkbetrieb gemäß DIN V 18599-2: 2018-09 Gleichung 29 und bei Heizsystemen in Raumhöhen von
@@ -1450,6 +1475,11 @@ Anforderungen nach diesem Gesetz.
 Anhang NA überprüft, darf die gemessene Netto-Luftwechselrate bei der Ermittlung des Jahres-Primärenergiebedarfs
 nach § 20 Absatz 1 oder Absatz 2 und nach § 21 Absatz 1 und 2 nach Maßgabe der Absätze 2 bis 5 als Luftwechselrate
 in Ansatz gebracht werden. Bei der Überprüfung der Luftdichtheit sind die Messungen nach den Absätzen 2
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 bis 5 sowohl mit Über- als auch mit Unterdruck durchzuführen. Die genannten Höchstwerte sind für beide Fälle
 einzuhalten.
 
@@ -1465,11 +1495,6 @@ Kubikmetern der bei einer Bezugsdruckdifferenz von 50 Pascal gemessene Volumenst
 
 1.  ohne raumlufttechnische Anlagen höchstens das 4,5fache der Hüllfläche des Gebäudes in Quadratmetern
     betragen und
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 2.  mit raumlufttechnischen Anlagen höchstens das 2,5fache der Hüllfläche des Gebäudes in Quadratmetern
     betragen.
 
@@ -1517,6 +1542,10 @@ aneinandergereihter Bebauung von Wohngebäuden**
 (1) Bei der Berechnung des Jahres-Primärenergiebedarfs nach § 20 und des Transmissionswärmeverlustes von
 aneinandergereihten Wohngebäuden werden Gebäudetrennwände zwischen
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 1.  Gebäuden, die nach ihrem Verwendungszweck auf Innentemperaturen von mindestens 19 Grad Celsius
     beheizt werden, als nicht wärmedurchlässig angenommen und bei der Ermittlung der wärmeübertragenden
     Umfassungsfläche nicht berücksichtigt,
@@ -1532,10 +1561,6 @@ aneinandergereihten Wohngebäuden werden Gebäudetrennwände zwischen
 (2) Werden beheizte Teile eines Gebäudes getrennt berechnet, ist Absatz 1 Nummer 1 sinngemäß für die
 Trennflächen zwischen den Gebäudeteilen anzuwenden.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 30 Zonenweise Berücksichtigung von Energiebedarfsanteilen bei einem zu errichtenden
 Nichtwohngebäude**
 
@@ -1581,6 +1606,10 @@ der Lüftungsanlage von mehr als zwei Monaten pro Jahr und mehr als zwei Stunden
 bis 17, wenn es die Voraussetzungen nach Anlage 5 Nummer 1 erfüllt und seine Ausführung den Vorgaben von
 Anlage 5 Nummer 2 und 3 entspricht.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (2) Das Bundesministerium für Wirtschaft und Klimaschutz macht gemeinsam mit dem Bundesministerium für
 Wohnen, Stadtentwicklung und Bauwesen im Bundesanzeiger bekannt, welche Angaben für die auf Grundlage
 von Absatz 1 zu errichtenden Wohngebäude ohne besondere Berechnungen in Energiebedarfsausweisen zu
@@ -1597,11 +1626,6 @@ Nichtwohngebäudes und des Referenzgebäudes unter Verwendung eines Ein-Zonen-Mo
 3.  das Gebäude nicht gekühlt wird,
 4.  höchstens 10 Prozent der Nettogrundfläche des Gebäudes durch Glühlampen, Halogenlampen oder durch
     die Beleuchtungsart „indirekt“ nach DIN V 18599: 2018-09 beleuchtet werden und
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 5.  außerhalb der Hauptnutzung keine raumlufttechnische Anlage eingesetzt wird, deren Werte für die
     spezifische Leistungsaufnahme der Ventilatoren die entsprechenden Werte der Anlage 2 Nummer 6.1 und
     6.2 überschreiten.
@@ -1643,6 +1667,10 @@ Primärenergiebedarfs des zu errichtenden Gebäudes.
 
 **§ 33 Andere Berechnungsverfahren**
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Werden in einem Gebäude bauliche oder anlagentechnische Komponenten eingesetzt, für deren energetische
 Bewertung weder anerkannte Regeln der Technik noch nach § 50 Absatz 4 Satz 2 bekannt gemachte gesicherte
 Erfahrungswerte vorliegen, so dürfen die energetischen Eigenschaften dieser Komponenten unter Verwendung
@@ -1663,10 +1691,6 @@ Regeln der Technik oder bekannt gemachte gesicherte Erfahrungswerte vorliegen.
 
 **§ 37 (weggefallen)**
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 38 (weggefallen)**
 
 **§ 39 (weggefallen)**
@@ -1714,6 +1738,10 @@ Arbeitsschutz oder zum Schutz der Gesundheit entgegensteht.
 
 (+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **§ 47 Nachrüstung eines bestehenden Gebäudes**
 
 (1) Eigentümer eines Wohngebäudes sowie Eigentümer eines Nichtwohngebäudes, die nach ihrer
@@ -1732,11 +1760,6 @@ eingebaut wird, wobei ein Bemessungswert der Wärmeleitfähigkeit von 0,035 Watt
 einzuhalten ist. Abweichend von Satz 1 ist ein Bemessungswert der Wärmeleitfähigkeit von 0,045 Watt pro
 Meter und Kelvin einzuhalten, soweit Dämmmaterialien in Hohlräume eingeblasen oder Dämmmaterialien
 aus nachwachsenden Rohstoffen verwendet werden. Wird der Wärmeschutz nach Absatz 1 Satz 2 als
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Zwischensparrendämmung ausgeführt und ist die Dämmschichtdicke wegen einer innenseitigen Bekleidung oder
 der Sparrenhöhe begrenzt, sind die Sätze 1 und 2 entsprechend anzuwenden.
 
@@ -1782,6 +1805,10 @@ vorhandenen Bauteilschichten berechnet. Für die Berechnung sind folgende Verfah
 2.  DIN 4108-4: 2017-03 in Verbindung mit DIN EN ISO 6946: 2008-04 für die Berechnung opaker Bauteile und
 3.  DIN 4108-4: 2017-03 für die Berechnung transparenter Bauteile sowie von Vorhangfassaden.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (2) Werden bei Maßnahmen nach § 48 Gefälledächer durch die keilförmige Anordnung einer Dämmschicht aufgebaut,
 so ist der Wärmedurchgangskoeffizient nach Anhang C der DIN EN ISO 6946: 2008-04 in Verbindung mit DIN 4108-
 4: 2017-03 zu ermitteln. Dabei muss der Bemessungswert des Wärmedurchgangswiderstandes am tiefsten Punkt
@@ -1799,17 +1826,10 @@ der neuen Dämmschicht den Mindestwärmeschutz nach § 11 erfüllen.
     a)   den Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung und Kühlung den auf
        die Gebäudenutzfläche bezogenen Wert des Jahres-Primärenergiebedarfs eines Referenzgebäudes,
        das die gleiche Geometrie, Gebäudenutzfläche und Ausrichtung wie das geänderte Gebäude
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-aufweist und der technischen Referenzausführung der Anlage 1 entspricht, um nicht mehr als 40
-Prozent überschreitet und
-b)   den Höchstwert des spezifischen, auf die wärmeübertragende Umfassungsfläche bezogenen
-Transmissionswärmeverlusts nach Absatz 2 um nicht mehr als 40 Prozent überschreitet,
-```
+       aufweist und der technischen Referenzausführung der Anlage 1 entspricht, um nicht mehr als 40
+       Prozent überschreitet und
+    b)   den Höchstwert des spezifischen, auf die wärmeübertragende Umfassungsfläche bezogenen
+       Transmissionswärmeverlusts nach Absatz 2 um nicht mehr als 40 Prozent überschreitet,
 2.   das geänderte Nichtwohngebäude insgesamt
     a)   den Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung
        und eingebaute Beleuchtung den auf die Nettogrundfläche bezogenen Wert des Jahres-
@@ -1847,6 +1867,10 @@ und Bauwesen gemeinsam im Bundesanzeiger bekannt gemacht worden sind.
 
 (5) Absatz 4 kann auch in den Fällen des § 48 sowie des § 51 angewendet werden.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **Fußnote**
 
 (+++ Teil 3 (§§ 46 bis 56): Zur Nichtanwendung vgl. § 46 Abs. 2 +++)
@@ -1863,10 +1887,6 @@ und Bauwesen gemeinsam im Bundesanzeiger bekannt gemacht worden sind.
     Umfassungsfläche der Außenbauteile der neu hinzukommenden beheizten oder gekühlten Räume das auf
     eine Nachkommastelle gerundete 1,25fache der Höchstwerte gemäß der Anlage 3 nicht überschreiten.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Abweichend von Satz 1 Nummer 2 sind in Fällen, bei denen die hinzukommende zusammenhängende Nutzfläche
 mehr als 100 Prozent der Nutzfläche des bisherigen Gebäudes beträgt, die Anforderungen nach den §§ 18 und 19
 einzuhalten.
@@ -1920,6 +1940,10 @@ war, nicht in einer Weise verändert werden, dass die energetische Qualität des
 Erfüllung anderen öffentlich-rechtlichen Vorschriften zur Standsicherheit, zum Brandschutz, zum Schallschutz, zum
 Arbeitsschutz oder zum Schutz der Gesundheit entgegensteht.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 ## Unterabschnitt 2
 
 ## Betreiberpflichten
@@ -1938,10 +1962,6 @@ Primärenergiebedarf ausgleicht.
 Eine Anlage und Einrichtung der Heizungs-, Kühl- oder Raumlufttechnik oder der Warmwasserversorgung ist vom
 Betreiber sachgerecht zu bedienen.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 60 Wartung und Instandhaltung**
 
 (1) Komponenten, die einen wesentlichen Einfluss auf den Wirkungsgrad von Anlagen und Einrichtungen der
@@ -1981,6 +2001,11 @@ für Wärmepumpen, die nicht einer Fernkontrolle unterliegen, spätestens alle f
 6.   die Überprüfung der hydraulischen Komponenten,
 7.   die Überprüfung der elektrischen Anschlüsse,
 8.   die Kontrolle des Zustands der Außeneinheit, sofern vorhanden, und
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 9.   die Sichtprüfung der Dämmung der Rohrleitungen des Wasserheizungssystems.
 
 (3) Die Betriebsprüfung nach Absatz 1 in Verbindung mit Absatz 2 ist von einer fachkundigen Person
@@ -1996,10 +2021,6 @@ von Absatz 2 abdeckt, durchlaufen hat.
 5.   Elektrotechniker nach Anlage A Nummer 25 zu der Handwerksordnung oder
 6.   Energieberater, die auf der Energieeffizienz-Expertenliste für Förderprogramme des Bundes stehen.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (5) Das Ergebnis der Prüfung und der etwaige Optimierungsbedarf hinsichtlich der Anforderungen nach Absatz
 1 ist schriftlich festzuhalten und dem Verantwortlichen zum Nachweis zu übersenden. Die erforderlichen
 Optimierungsmaßnahmen sind innerhalb von einem Jahr nach der Betriebsprüfung durchzuführen. Das Ergebnis
@@ -2041,6 +2062,11 @@ Gesundheit regelmäßig notwendig:
 3.   die Optimierung des Zirkulationsbetriebs unter Berücksichtigung geltender Regelungen zum
     Gesundheitsschutz,
 4.   die Überprüfung der ordnungsgemäßen Einstellung der Umwälzpumpe,
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 5.   die Absenkung der Warmwassertemperaturen unter Berücksichtigung geltender Regelungen zum
     Gesundheitsschutz,
 6.   die Absenkung der Heizgrenztemperatur, um die Heizperiode und -tage zu verringern, und
@@ -2057,10 +2083,6 @@ Feuerstättenschau nach dem Schornsteinfeger-Handwerksgesetz vom 26. November 20
 der jeweils geltenden Fassung, oder bei Heizungswartungsarbeiten, angeboten und durchgeführt werden. Die
 Heizungsprüfung kann auch im Rahmen der Durchführung eines hydraulischen Abgleichs nachgewiesen werden.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (5) Das Ergebnis der Prüfung nach Absatz 1 Satz 3 und der etwaige Optimierungsbedarf sind schriftlich
 festzuhalten und dem Verantwortlichen zum Nachweis zu übersenden. Sofern die Prüfung Optimierungsbedarf
 nach Absatz 1 Satz 3 Nummer 1 in Verbindung mit Absatz 2 aufzeigt, sind die Optimierungsmaßnahmen innerhalb
@@ -2105,6 +2127,10 @@ selbständigen Nutzungseinheiten hydraulisch abzugleichen.
 Berücksichtigung aller wesentlichen Komponenten des Heizungssystems mindestens folgende Planungs- und
 Umsetzungsleistungen:
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 1.   eine raumweise Heizlastberechnung,
 2.   eine Prüfung und nötigenfalls eine Optimierung der Heizflächen im Hinblick auf eine möglichst niedrige
     Vorlauftemperatur und
@@ -2112,8 +2138,13 @@ Umsetzungsleistungen:
 
 Für die raumweise Heizlastberechnung ist das in der DIN EN 12831, Teil 1, Ausgabe September 2017, in
 
-Verbindung mit DIN/TS 12831, Teil 1, Ausgabe April 2020,^3 vorgesehene Verfahren anzuwenden.
+Verbindung mit DIN/TS 12831, Teil 1, Ausgabe April 2020,
 
+### 3
+
+```
+vorgesehene Verfahren anzuwenden.
+```
 (3) Der hydraulische Abgleich ist nach Maßgabe des Verfahrens B nach der ZVSHK-Fachregel „Optimierung
 von Heizungsanlagen im Bestand“, VdZ – Wirtschaftsvereinigung Gebäude und Energie e. V., 1. aktualisierte
 Neuauflage April 2022, Nummer 4.2. oder nach einem gleichwertigen Verfahren durchzuführen.
@@ -2121,11 +2152,6 @@ Neuauflage April 2022, Nummer 4.2. oder nach einem gleichwertigen Verfahren durc
 (4) Die Bestätigung des hydraulischen Abgleichs ist einschließlich der Einstellungswerte, der Heizlast des
 Gebäudes, der eingestellten Leistung der Wärmeerzeuger und der raumweisen Heizlastberechnung, der
 Auslegungstemperatur, der Einstellung der Regelung und des Drückens im Ausdehnungsgefäß schriftlich
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 festzuhalten und dem Verantwortlichen mitzuteilen. Die Bestätigung nach Satz 1 ist auf Verlangen dem Mieter
 unverzüglich vorzulegen. § 60a Absatz 5 Satz 4 ist entsprechend anzuwenden.
 
@@ -2177,6 +2203,10 @@ der zentralen Erzeugungsanlage geregelt wird.
 oder der Eigentümer dafür Sorge zu tragen, dass die heizungstechnische Anlage mit einer selbsttätig wirkenden
 Einrichtung zur raumweisen Regelung der Raumtemperatur ausgestattet ist. Satz 1 ist nicht anzuwenden auf
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 1.  eine Fußbodenheizung in Räumen mit weniger als sechs Quadratmetern Nutzfläche oder
 2.  ein Einzelheizgerät, das zum Betrieb mit festen oder flüssigen Brennstoffen eingerichtet ist.
 
@@ -2191,10 +2221,6 @@ der Eigentümer sie nachrüsten. Absatz 1 Satz 2 und Absatz 2 sind entsprechend 
 
 **§ 64 Umwälzpumpe, Zirkulationspumpe**
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Eine Zirkulationspumpe muss beim Einbau in eine Warmwasseranlage mit einer selbsttätig wirkenden Einrichtung
 zur Ein- und Ausschaltung ausgestattet werden. Die Trinkwasserverordnung bleibt unberührt.
 
@@ -2242,6 +2268,10 @@ höher ist als
 1.  neun Kubikmeter pro Stunde je Quadratmeter versorgter Nettogrundfläche des Nichtwohngebäudes oder
 2.  neun Kubikmeter pro Stunde je Quadratmeter versorgter Gebäudenutzfläche des Wohngebäudes.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (2) Absatz 1 ist nicht anzuwenden, soweit in den versorgten Räumen auf Grund des Arbeits- und
 Gesundheitsschutzes erhöhte Zuluftvolumenströme erforderlich oder Laständerungen weder messtechnisch noch
 hinsichtlich des zeitlichen Verlaufs erfassbar sind.
@@ -2259,10 +2289,6 @@ Luftvolumenstrom der Außenluftvolumenstrom maßgebend.
 
 ## Wärmedämmung von Rohrleitungen und Armaturen
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 69 Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen**
 
 (1) Werden Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen erstmalig in ein Gebäude eingebaut
@@ -2309,6 +2335,11 @@ Nutzungseinheiten oder des Gebäudenetzes vollständig decken:
 1.   Hausübergabestation zum Anschluss an ein Wärmenetz nach Maßgabe des § 71b,
 2.   elektrisch angetriebene Wärmepumpe nach Maßgabe des § 71c,
 3.   Stromdirektheizung nach Maßgabe des § 71d,
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 4.   solarthermische Anlage nach Maßgabe des § 71e,
 5.   Heizungsanlage zur Nutzung von Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus
     hergestellter Derivate nach Maßgabe der §§ 71f und 71g,
@@ -2325,10 +2356,6 @@ eingehalten werden.
 
 (4) Die Pflicht nach Absatz 1 ist anzuwenden
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 1.   bei einer Heizungsanlage, die sowohl Raumwärme als auch Warmwasser erzeugt, auf das Gesamtsystem,
 2.   bei einer Heizungsanlage, in der Raumwärme und Warmwasser getrennt voneinander erzeugt werden, nur
     auf das Einzelsystem, das neu eingebaut oder aufgestellt wird, oder
@@ -2349,11 +2376,7 @@ elektrischen Durchlauferhitzern müssen diese zur Erfüllung der Pflicht nach Ab
 sie über ein technisches System nutzbar gemacht und im Gebäude zur Deckung des Wärmebedarfs eingesetzt
 wird. Beim Betrieb einer dezentralen, handbeschickten Einzelraumfeuerungsanlage kann im Nachweis der
 
-Pflichterfüllung nach Absatz 1 ein vom Standardwert der DIN V 18599-5: 2018-09
-
-### *
-
-abweichender Wert von 0,10
+Pflichterfüllung nach Absatz 1 ein vom Standardwert der DIN V 18599-5: 2018-09* abweichender Wert von 0,10
 für den Deckungsanteil am Nutzwärmebedarf angerechnet werden.
 
 (7) Die Anforderungen nach Absatz 1 sind nicht für eine Heizungsanlage anzuwenden, die zur ausschließlichen
@@ -2379,6 +2402,11 @@ behandelt, als läge eine Wärmeplanung vor.
 (9) Der Betreiber einer mit einem flüssigen oder gasförmigen Brennstoff beschickten Heizungsanlage, die nach
 Ablauf des 31. Dezember 2023 und vor Ablauf des 30. Juni 2026 im Fall des Absatzes 8 Satz 1 oder vor Ablauf
 des 30. Juni 2028 im Fall des Absatzes 8 Satz 2 oder vor Ablauf von einem Monat nach der Bekanntgabe der
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Entscheidung nach Absatz 8 Satz 3 eingebaut wird und die nicht die Anforderungen des Absatzes 1 erfüllt,
 hat sicherzustellen, dass ab dem 1. Januar 2029 mindestens 15 Prozent, ab dem 1. Januar 2035 mindestens
 30 Prozent und ab dem 1. Januar 2040 mindestens 60 Prozent der mit der Anlage bereitgestellten Wärme aus
@@ -2394,11 +2422,6 @@ Gebäude aus § 34 oder § 35 des Baugesetzbuchs in der jeweils geltenden Fassun
 (11) Vor Einbau und Aufstellung einer Heizungsanlage, die mit einem festen, flüssigen oder gasförmigen
 Brennstoff betrieben wird, hat eine Beratung zu erfolgen, die auf mögliche Auswirkungen der Wärmeplanung und
 eine mögliche Unwirtschaftlichkeit, insbesondere aufgrund ansteigender Kohlenstoffdioxid-Bepreisung, hinweist.
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Die Beratung ist von einer fachkundigen Person nach § 60b Absatz 3 Satz 2 oder § 88 Absatz 1 durchzuführen.
 Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen, Stadtentwicklung
 und Bauwesen stellen bis zum 1. Januar 2024 Informationen zur Verfügung, die als Grundlage für die Beratung zu
@@ -2446,6 +2469,10 @@ optimierten Gebäudebetrieb zu analysieren und zu heben.
 2.   ein technisches Inbetriebnahme-Management einschließlich der Einregelung der gebäudetechnischen
     Anlagen durchlaufen, um einen optimalen Betrieb zu gewährleisten.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Bei der Ausstattung des Systems für die Gebäudeautomatisierung nach Satz 1 Nummer 1 muss sichergestellt
 sein, dass dieses System die Kommunikation zwischen miteinander verbundenen gebäudetechnischen
 Systemen und anderen Anwendungen innerhalb des Gebäudes ermöglicht und gemeinsam mit anderen Typen
@@ -2466,10 +2493,6 @@ gebäudetechnischen Systemen und anderen Anwendungen innerhalb des Gebäudes erm
 sichergestellt werden, dass diese Systeme gemeinsam mit anderen Typen gebäudetechnischer Systeme
 betrieben werden können, auch bei unterschiedlichen herstellereigenen Technologien, Geräten und Herstellern.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 ```
 * Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der Deutschen Nationalbibliothek
 archivmäßig gesichert niedergelegt.
@@ -2518,6 +2541,10 @@ und der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen.
 
 (3) Absatz 2 ist nicht beim Austausch einer bestehenden einzelnen Einzelraum-Stromdirektheizung anzuwenden.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (4) Die Absätze 1 und 2 sind nicht anzuwenden
 
 1.   auf eine Stromdirektheizung in einem Gebäude, in dem ein dezentrales Heizungssystem zur Beheizung
@@ -2533,11 +2560,6 @@ und soweit die Verwendung einer CE-Kennzeichnung nach Maßgabe eines Durchführu
 der Grundlage der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober
 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung
 energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10), die zuletzt durch die Richtlinie
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 2012/27/EU (ABl. L 315 vom 14.11.2012, S. 1) geändert worden ist, nicht zwingend vorgeschrieben ist. Die
 Zertifizierung muss nach den anerkannten Regeln der Technik erfolgen.
 
@@ -2584,6 +2606,10 @@ Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) in der jeweils geltenden Fassung en
 
 **§ 71g Anforderungen an eine Heizungsanlage zur Nutzung von fester Biomasse**
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Der Betreiber einer Feuerungsanlage im Sinne von § 1 Absatz 1 und § 2 Nummer 5 der Verordnung über kleine
 und mittlere Feuerungsanlagen hat bei der Nutzung von fester Biomasse sicherzustellen, dass
 
@@ -2599,10 +2625,6 @@ und mittlere Feuerungsanlagen hat bei der Nutzung von fester Biomasse sicherzust
 
 **§ 71h Anforderungen an eine Wärmepumpen- oder eine Solarthermie-Hybridheizung**
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (1) Eine Wärmepumpen-Hybridheizung, bestehend aus einer elektrisch angetriebenen Wärmepumpe in
 Kombination mit einer Gas-, Biomasse- oder Flüssigbrennstofffeuerung, darf nur eingebaut oder aufgestellt und
 betrieben werden, wenn die Anforderungen nach den Sätzen 2 und 3 erfüllt sind. Die Anforderungen des § 71
@@ -2653,9 +2675,17 @@ grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate na
 60 Prozent entsprechend dem Anteil der eingesetzten Aperturfläche an der in Absatz 3 genannten Aperturfläche
 zu mindern.
 
-(^4) DIN EN 14825, Ausgabe Juli 2019, die bei der Beuth Verlag GmbH, Berlin, zu beziehen und beim
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
+4
+DIN EN 14825, Ausgabe Juli 2019, die bei der Beuth Verlag GmbH, Berlin, zu beziehen und beim
 Deutschen Patentamt archivmäßig gesichert ist.
+```
 **§ 71i Allgemeine Übergangsfrist**
+
 Im Fall eines Heizungsaustauschs nach den in § 71 Absatz 8 Satz 1 bis 3 genannten Zeitpunkten kann höchstens
 für fünf Jahre übergangsweise eine alte Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum
 Zweck der Inbetriebnahme eingebaut oder aufgestellt und betrieben werden, die nicht die Anforderungen des
@@ -2664,12 +2694,9 @@ der Heizungsanlage durchgeführt werden. Sofern innerhalb der in Satz 1 genannte
 Heizungstausch stattfindet, ist für den Fristbeginn nach Satz 1 der Zeitpunkt des erstmaligen Austauschs der
 alten Heizungsanlage maßgeblich. Satz 1 ist nicht anzuwenden für eine Etagenheizung nach § 71l Absatz 1 und
 für eine Einzelraumfeuerungsanlage nach § 71l Absatz 7 sowie für eine Hallenheizung nach § 71m.
+
 **Fußnote**
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (+++ § 71i Satz 2: Zur Anwendung vgl. § 71l Abs. 1 Satz 2, § 71m Abs. 1 Satz 3 u. § 71m Abs. 2 Satz 4 +++)
 
 **§ 71j Übergangsfristen bei Neu- und Ausbau eines Wärmenetzes**
@@ -2716,6 +2743,10 @@ wenn der Wärmenetzbetreiber die Entstehung der Mehrkosten nicht zu vertreten ha
 **§ 71k Übergangsfristen bei einer Heizungsanlage, die sowohl Gas als auch Wasserstoff verbrennen
 kann; Festlegungskompetenz**
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (1) Bis zum Anschluss an ein Wasserstoffnetz kann eine Heizungsanlage, die Erdgas verbrennen kann und auf
 die Verbrennung von 100 Prozent Wasserstoff umrüstbar ist, zum Zweck der Inbetriebnahme eingebaut oder
 aufgestellt und ohne Einhaltung der Anforderungen nach § 71 Absatz 1 oder Absatz 9 zur Wärmeerzeugung
@@ -2731,23 +2762,17 @@ betrieben werden, wenn
     Dezember 2044 zu vollendende Umstellung der Netzinfrastruktur auf die vollständige Versorgung der
     Anschlussnehmer mit Wasserstoff beschlossen und veröffentlicht haben und darin mindestens festgelegt
     haben,
+       a)   in welchen technischen und zeitlichen Schritten die Umstellung der Infrastruktur und der
+          Hochlauf auf Wasserstoff erfolgt; dabei muss der Fahrplan in Übereinstimmung mit den
+          Netzentwicklungsplänen der Fernleitungsebene stehen oder der Betreiber des Gasverteilernetzes
+          darlegen, wie vor Ort ausreichend Wasserstoff produziert und gespeichert werden kann,
+       b)   wie die Umstellung auf die vollständige Versorgung der Anschlussnehmer auf Wasserstoff
+          finanziert wird, insbesondere, wer die Kosten der Umrüstungen und des Austauschs der nicht
+          umrüstbaren Verbrauchsgeräte tragen soll, und
+       c)   mit welchen zeitlichen und räumlichen Zwischenschritten in den Jahren 2035 und 2040
+          die Umstellung von Netzteilen in Einklang mit den Klimaschutzzielen des Bundes unter
+          Berücksichtigung der verbleibenden Treibhausgasemissionen erfolgt.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-a)   in welchen technischen und zeitlichen Schritten die Umstellung der Infrastruktur und der
-Hochlauf auf Wasserstoff erfolgt; dabei muss der Fahrplan in Übereinstimmung mit den
-Netzentwicklungsplänen der Fernleitungsebene stehen oder der Betreiber des Gasverteilernetzes
-darlegen, wie vor Ort ausreichend Wasserstoff produziert und gespeichert werden kann,
-b)   wie die Umstellung auf die vollständige Versorgung der Anschlussnehmer auf Wasserstoff
-finanziert wird, insbesondere, wer die Kosten der Umrüstungen und des Austauschs der nicht
-umrüstbaren Verbrauchsgeräte tragen soll, und
-c)   mit welchen zeitlichen und räumlichen Zwischenschritten in den Jahren 2035 und 2040
-die Umstellung von Netzteilen in Einklang mit den Klimaschutzzielen des Bundes unter
-Berücksichtigung der verbleibenden Treibhausgasemissionen erfolgt.
-```
 (2) Der verbindliche Fahrplan nach Absatz 1 Nummer 2 muss einen Investitionsplan mit zwei- bis dreijährlichen
 Meilensteinen für die Umsetzung des Neubaus oder der Umstellung des Gasnetzes auf Wasserstoff enthalten.
 
@@ -2780,6 +2805,10 @@ nach öffentlicher Bekanntgabe des Eintritts der Bestandskraft des Bescheids erf
 Wasserstoffverteilnetzes muss die Entscheidung der Bundesnetzagentur in Textform jedem Anschlussnehmer
 unverzüglich mitteilen.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (5) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem Gesetz sind die Bestimmungen des
 Teils 8 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
@@ -2797,11 +2826,6 @@ Wasserstoff im Sinne des Satzes 1 kann durch eine Hersteller- oder Handwerkererk
 
 (1) In einem Gebäude, in dem mindestens eine Etagenheizung betrieben wird, sind die Anforderungen des § 71
 Absatz 1 für Etagenheizungen erst fünf Jahre nach dem Zeitpunkt anzuwenden, zu dem die erste Etagenheizung
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 oder zentrale Heizungsanlage ausgetauscht und eine andere Heizungsanlage zum Zweck der Inbetriebnahme in
 dem Gebäude eingebaut oder aufgestellt wurde. § 71i Satz 2 ist entsprechend anzuwenden.
 
@@ -2845,6 +2869,10 @@ der Verordnung über kleine und mittlere Feuerungsanlagen zur Erzeugung von Raum
 oder einer Kombination davon betrieben wird, sind die Absätze 1 bis 5 anzuwenden, sobald die erste
 Einzelraumfeuerungsanlage zum Zweck der Inbetriebnahme in dem Gebäude eingebaut oder aufgestellt wurde.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **Fußnote**
 
 (+++ § 71l Abs. 4 u. 5: Zur Anwendung vgl. § 71n Abs. 6 Satz 2 +++)
@@ -2864,11 +2892,6 @@ Austausch der Altanlage ein dezentrales Heizsystem in Bestandsgebäuden zur Behe
 mit mehr als 4 Meter Raumhöhe zum Zweck der Inbetriebnahme eingebaut oder aufgestellt und betrieben
 werden. Nach Ablauf der zwei Jahre muss das neu aufgestellte oder eingebaute dezentrale Heizsystem mit
 mindestens 65 Prozent erneuerbaren Energien betrieben werden, sofern der Betreiber nicht nachweist, dass der
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Endenergieverbrauch des Gebäudes für Raumwärme gegenüber dem Endenergieverbrauch vor der Erneuerung
 des Heizungssystems über einen Zeitraum von einem Jahr um mindestens 40 Prozent verringert wurde. Wurde
 der Endenergieverbrauch nach Satz 2 um weniger als 40 Prozent, mindestens aber 25 Prozent verringert, kann
@@ -2911,6 +2934,10 @@ können. Hierzu zählen insbesondere Informationen über
     beauftragt haben, und
 3.   Ausstattungen zur Effizienzsteigerung, die im Sondereigentum stehen.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Die Wohnungseigentümer sind dazu verpflichtet, die genannten Informationen innerhalb von sechs Monaten
 nach der Aufforderung in Textform mitzuteilen. Die Wohnungseigentümer haben die Gemeinschaft der
 Wohnungseigentümer über den Ausfall einer alten Etagenheizung, den Einbau oder die Aufstellung einer neuen
@@ -2930,11 +2957,6 @@ Wohnungseigentümerversammlung ist über die Vorgehensweise zur Erfüllung der A
 (5) Die Wohnungseigentümer haben innerhalb der Frist des § 71l Absatz 1 Satz 1 über die Erfüllung
 der Anforderungen nach § 71 Absatz 1 zu beschließen. Für die Erfüllung dieser Anforderungen ist ein
 Umsetzungskonzept zu erarbeiten, zu beschließen und auszuführen. Bis zur vollständigen Umsetzung ist
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 mindestens einmal jährlich in der Wohnungseigentümerversammlung über den Stand der Umsetzung der
 Erfüllung der Anforderungen des § 71 Absatz 1 zu berichten.
 
@@ -2975,9 +2997,17 @@ Gebäude
 
 Der Nachweis nach Satz 1 muss von einem Fachunternehmer erbracht werden. Die Ermittlung der
 
-Jahresarbeitszahl erfolgt auf der Grundlage der VDI 4650 Blatt 1: 2019-03^5 oder eines vergleichbaren Verfahrens
+Jahresarbeitszahl erfolgt auf der Grundlage der VDI 4650 Blatt 1: 2019-03
+
+### 5
+
+oder eines vergleichbaren Verfahrens
 in der Regel vor der Inbetriebnahme der Anlage und nicht anhand von den Werten im Betrieb.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (2) Sofern der Nachweis nach Absatz 1 Satz 1 nicht erbracht wird, kann der Vermieter für eine Mieterhöhung
 nach § 559 Absatz 1 oder § 559e Absatz 1 des Bürgerlichen Gesetzbuches nur 50 Prozent der für die Wohnung
 aufgewendeten Kosten zugrunde legen.
@@ -2996,20 +3026,12 @@ natürlicher Kältemittel in elektrischen Wärmepumpen und in Wärmepumpen-Hybri
 zum Zweck der Inbetriebnahme in einem Gebäude eingebaut oder aufgestellt werden. In der Rechtsverordnung
 sind die zulässigen Kältemittel festzulegen. Soweit erforderlich, können Ausnahmeregelungen vorgesehen werden
 für Fälle, in denen brennbare natürliche Kältemittel aus Sicherheitsgründen nicht eingesetzt werden können.
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 72 Betriebsverbot für Heizkessel, Ölheizungen**
-
 (1) Eigentümer von Gebäuden dürfen ihre Heizkessel, die mit einem flüssigen oder gasförmigen Brennstoff
 beschickt werden und vor dem 1. Januar 1991 eingebaut oder aufgestellt worden sind, nicht mehr betreiben.
-
 (2) Eigentümer von Gebäuden dürfen ihre Heizkessel, die mit einem flüssigen oder gasförmigen Brennstoff
 beschickt werden und ab dem 1. Januar 1991 eingebaut oder aufgestellt worden sind, nach Ablauf von 30 Jahren
 nach Einbau oder Aufstellung nicht mehr betreiben.
-
 (3) Die Absätze 1 und 2 sind nicht anzuwenden auf
 
 1.   Niedertemperatur-Heizkessel und Brennwertkessel,
@@ -3042,6 +3064,10 @@ Eigentümerwechsels nach dem 1. Februar 2002 von dem neuen Eigentümer zu erfül
 
 **§ 74 Betreiberpflicht**
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (1) Der Betreiber von einer in ein Gebäude eingebauten Klimaanlage mit einer Nennleistung für den Kältebedarf
 von mehr als 12 Kilowatt oder einer kombinierten Klima- und Lüftungsanlage mit einer Nennleistung für den
 Kältebedarf von mehr als 12 Kilowatt hat innerhalb der in § 76 genannten Zeiträume energetische Inspektionen
@@ -3063,18 +3089,12 @@ Nettogrundfläche.
     Absatz 5 ausgestattet ist oder
 2.   sofern die Gesamtauswirkungen eines solchen Ansatzes gleichwertig sind, wenn die Klimaanlage oder
     kombinierte Klima- und Lüftungsanlage
+       a)   unter eine vertragliche Vereinbarung über ein Niveau der Gesamtenergieeffizienz oder eine
+          Energieeffizienzverbesserung fällt, insbesondere unter einen Energieleistungsvertrag nach § 3
+          Absatz 1 Nummer 8a, oder
+       b)   von einem Versorgungsunternehmen oder einem Netzbetreiber betrieben wird und demnach
+          systemseitigen Maßnahmen zur Überwachung der Effizienz unterliegt.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-a)   unter eine vertragliche Vereinbarung über ein Niveau der Gesamtenergieeffizienz oder eine
-Energieeffizienzverbesserung fällt, insbesondere unter einen Energieleistungsvertrag nach § 3
-Absatz 1 Nummer 8a, oder
-b)   von einem Versorgungsunternehmen oder einem Netzbetreiber betrieben wird und demnach
-systemseitigen Maßnahmen zur Überwachung der Effizienz unterliegt.
-```
 (4) Die Pflicht nach Absatz 1 besteht nicht, wenn eine Klimaanlage oder eine kombinierte Klima- und
 Lüftungsanlage in ein Wohngebäude eingebaut ist, das ausgestattet ist mit
 
@@ -3107,6 +3127,10 @@ nach DIN SPEC 15240: 2019-03 durchzuführen.
 einem Betrieb von mehr als 200 Klimaanlagen jede 20. Anlage einer Inspektion nach Maßgabe der Absätze 1 bis
 3 zu unterziehen.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **§ 76 Zeitpunkt der Inspektion**
 
 (1) Die Inspektion ist erstmals im zehnten Jahr nach der Inbetriebnahme oder der Erneuerung wesentlicher Bauteile
@@ -3127,10 +3151,6 @@ nicht wiederholt werden.
 
 (2) Fachkundig ist insbesondere
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 1.  eine Person mit einem berufsqualifizierenden Hochschulabschluss in einer der Fachrichtungen
     Versorgungstechnik oder Technische Gebäudeausrüstung mit mindestens einem Jahr Berufserfahrung in
     Planung, Bau, Betrieb oder Prüfung raumlufttechnischer Anlagen,
@@ -3170,6 +3190,10 @@ oder mit einem Faksimile der Unterschrift zu versehen. Der Inspektionsbericht is
 (3) Vor Übergabe des Inspektionsberichts an den Betreiber hat die inspizierende Person die nach § 98 Absatz 2
 zugeteilte Registriernummer einzutragen.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (4) Zur Sicherstellung des Vollzugs der Inspektionspflicht nach § 74 Absatz 1 hat der Betreiber den Inspektionsbericht
 der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen.
 
@@ -3191,10 +3215,6 @@ zulässig, sowohl den Energiebedarf als auch den Energieverbrauch anzugeben.
 (2) Ein Energieausweis wird für ein Gebäude ausgestellt. Er ist für Teile von einem Gebäude auszustellen, wenn die
 Gebäudeteile nach § 106 getrennt zu behandeln sind.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (3) Ein Energieausweis ist für eine Gültigkeitsdauer von zehn Jahren auszustellen. Unabhängig davon verliert er
 seine Gültigkeit, wenn nach § 80 Absatz 2 ein neuer Energieausweis erforderlich wird.
 
@@ -3237,6 +3257,11 @@ Bei der Ermittlung der energetischen Eigenschaften des Wohngebäudes nach Satz 3
 (4) Im Falle eines Verkaufs oder der Bestellung eines Rechts im Sinne des Absatzes 3 Satz 1 hat der Verkäufer
 oder der Immobilienmakler dem potenziellen Käufer spätestens bei der Besichtigung einen Energieausweis oder
 eine Kopie hiervon vorzulegen. Die Vorlagepflicht wird auch durch einen deutlich sichtbaren Aushang oder ein
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 deutlich sichtbares Auslegen während der Besichtigung erfüllt. Findet keine Besichtigung statt, haben der Verkäufer
 oder der Immobilienmakler den Energieausweis oder eine Kopie hiervon dem potenziellen Käufer unverzüglich
 vorzulegen. Der Energieausweis oder eine Kopie hiervon ist spätestens dann unverzüglich vorzulegen, wenn der
@@ -3256,11 +3281,6 @@ Energieausweis ausgestellt wird. Der Eigentümer hat den nach Satz 1 ausgestellt
 die Öffentlichkeit gut sichtbaren Stelle auszuhängen. Wird die in Satz 1 genannte Nutzfläche nicht oder nicht
 überwiegend vom Eigentümer selbst genutzt, so trifft die Pflicht zum Aushang des Energieausweises den Nutzer.
 Der Eigentümer hat ihm zu diesem Zweck den Energieausweis oder eine Kopie hiervon zu übergeben. Zur Erfüllung
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 der Pflicht nach Satz 2 ist es ausreichend, von einem Energieausweis nur einen Auszug nach dem Muster gemäß
 § 85 Absatz 8 auszuhängen.
 
@@ -3305,6 +3325,10 @@ ermitteln und in Kilowattstunden pro Jahr und Quadratmeter Nettogrundfläche anz
 Primärenergieverbrauch wird auf der Grundlage des Endenergieverbrauchs und der Primärenergiefaktoren nach §
 22 errechnet.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (4) Zur Ermittlung des Energieverbrauchs sind die folgenden Verbrauchsdaten zu verwenden:
 
 1.  Verbrauchsdaten aus Abrechnungen von Heizkosten nach der Verordnung über Heizkostenabrechnung in
@@ -3323,11 +3347,6 @@ zugrunde gelegten Zeitraum.
 längerer Leerstände sowie die Berechnung des Primärenergieverbrauchs auf der Grundlage des ermittelten
 Endenergieverbrauchs ist ein den anerkannten Regeln der Technik entsprechendes Verfahren anzuwenden. Die
 Einhaltung der anerkannten Regeln der Technik wird vermutet, soweit bei der Ermittlung des Energieverbrauchs
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Vereinfachungen verwendet werden, die vom Bundesministerium für Wirtschaft und Energie und vom
 Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger gemeinsam bekannt gemacht worden sind.
 
@@ -3371,6 +3390,11 @@ Sind Modernisierungsempfehlungen nicht möglich, hat der Aussteller dies im Ener
     zu den Aussagen der jeweiligen Ausweisart über die energetische Qualität des Gebäudes,
 3.   Ablaufdatum des Energieausweises,
 4.   Registriernummer,
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 5.   Anschrift des Gebäudes,
 6.   Art des Gebäudes: Wohngebäude oder Nichtwohngebäude,
 7.   bei einem Wohngebäude: Gebäudetyp,
@@ -3384,11 +3408,6 @@ Sind Modernisierungsempfehlungen nicht möglich, hat der Aussteller dies im Ener
 14.   wesentliche Energieträger für Heizung und Warmwasser,
 15.   Art der genutzten erneuerbaren Energien zur Erfüllung der Anforderungen nach § 71 Absatz 1,
 16.   Art der Lüftung und, falls vorhanden, Art der Kühlung,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 17.   inspektionspflichtige Klimaanlagen oder kombinierte Lüftungs- und Klimaanlage im Sinne des § 74 und
     Fälligkeitsdatum der nächsten Inspektion,
 18.   der Anlass der Ausstellung des Energieausweises,
@@ -3424,6 +3443,10 @@ folgende Angaben enthalten:
 9.   bei einem Nichtwohngebäude: Aufteilung des jährlichen Endenergiebedarfs auf Heizung, Warmwasser,
     eingebaute Beleuchtung, Lüftung, Kühlung einschließlich Befeuchtung.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (3) Ein Energieverbrauchsausweis im Sinne des § 82 muss zusätzlich zu den Angaben nach Absatz 1 mindestens
 folgende Angaben enthalten:
 
@@ -3441,11 +3464,6 @@ folgende Angaben enthalten:
     Nettogrundfläche des Gebäudes,
 3.   Daten zur Verbrauchserfassung, einschließlich Angaben zu Leerständen,
 4.   bei einem Nichtwohngebäude: Gebäudenutzung,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 5.   bei einem Wohngebäude: Vergleichswerte für Endenergie,
 6.   bei einem Nichtwohngebäude: Vergleichswerte für den Energieverbrauch, die jeweils vom
     Bundesministerium für Wirtschaft und Klimaschutz gemeinsam mit dem Bundesministerium für Wohnen,
@@ -3488,6 +3506,11 @@ verantwortet, sicherzustellen, dass die Immobilienanzeige folgende Pflichtangabe
     Sinne von § 82,
 2.  den im Energieausweis genannten Wert des Endenergiebedarfs oder des Endenergieverbrauchs für das
     Gebäude,
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 3.  die im Energieausweis genannten wesentlichen Energieträger für die Heizung des Gebäudes,
 4.  bei einem Wohngebäude das im Energieausweis genannte Baujahr und
 5.  bei einem Wohngebäude die im Energieausweis genannte Energieeffizienzklasse.
@@ -3504,10 +3527,6 @@ Absatz 3 und 4 zu erfüllen.
 
 (1) Zur Ausstellung eines Energieausweises ist nur eine Person berechtigt,
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 1.   die nach bauordnungsrechtlichen Vorschriften der Länder zur Unterzeichnung von bautechnischen
     Nachweisen des Wärmeschutzes oder der Energieeinsparung bei der Errichtung von Gebäuden berechtigt
     ist, im Rahmen der jeweiligen Nachweisberechtigung,
@@ -3546,6 +3565,10 @@ ist der erfolgreiche Teilnehmer der Schulung nur berechtigt, Energieausweise fü
 (4) § 77 Absatz 3 ist auf Aus- oder Fortbildungen im Sinne des Absatzes 1 Nummer 2 bis 4 entsprechend
 anzuwenden.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (5) Zur Ausstellung eines Energieausweises ist abweichend von Absatz 1 auch eine Person berechtigt, die
 eine Qualifikationsprüfung Energieberatung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle erfolgreich
 abgeschlossen hat.
@@ -3564,11 +3587,6 @@ Maßgabe des Bundeshaushaltes gefördert werden. Gefördert werden können
 
 1.   Maßnahmen zur Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte in bereits
     bestehenden Gebäuden nach Maßgabe des § 90,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 2.   Maßnahmen zur Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte in neu zu
     errichtenden Gebäuden nach Maßgabe des § 90, wenn die Vorgaben des § 91 eingehalten werden,
 3.   Maßnahmen zur Errichtung besonders energieeffizienter Gebäude, wenn mit der geförderten Maßnahme
@@ -3611,9 +3629,14 @@ Bereitstellung von Wärme oder Kälte, insbesondere die Errichtung oder Erweiter
        b)   70 Prozent bei einer Anlage, die nicht der Heizung oder Warmwasserbereitung dient,
 3.   eine Wärmepumpe zur Nutzung von Geothermie, Umweltwärme oder Abwärme nur förderfähig, wenn
     sie die Anforderungen der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom
-    11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom
-    21.12.2018, S. 82), die zuletzt durch die Delegierte Verordnung (EU) 2022/759 (ABl. L 139 vom 18.5.2022,
-    S. 1) geändert worden ist, erfüllt.
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom
+21.12.2018, S. 82), die zuletzt durch die Delegierte Verordnung (EU) 2022/759 (ABl. L 139 vom 18.5.2022,
+S. 1) geändert worden ist, erfüllt.
 
 Die Zertifizierung von einer solarthermischen Anlage mit dem europäischen Prüfzeichen „Solar Keymark“ muss
 nach den anerkannten Regeln der Technik erfolgen. Der Umwandlungswirkungsgrad eines Biomassekessels
@@ -3628,10 +3651,6 @@ der Pflicht nach § 71 Absatz 1 Satz 1 oder einer landesrechtlichen Pflicht nach
 
 (2) Absatz 1 ist nicht bei den folgenden Maßnahmen anzuwenden:
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 1.   der Errichtung eines Wohngebäudes, bei dem Anforderungen eingehalten werden, die anspruchsvoller
     sind als die für die Errichtung eines Wohngebäudes jeweils geltenden Neubauanforderungen nach diesem
     Gesetz, sofern die Maßnahme nicht unter die Nummern 3 bis 7 fällt,
@@ -3675,6 +3694,10 @@ Eigenschaften des geänderten Gebäudes abzugeben, wenn unter Anwendung des § 5
 gesamte Gebäude Berechnungen nach § 50 Absatz 3 durchgeführt werden. Die Pflicht nach Satz 1 besteht auch in
 den Fällen des § 51. Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **§ 93 Pflichtangaben in der Erfüllungserklärung**
 
 In der Erfüllungserklärung sind für das gesamte Gebäude oder, soweit die Berechnungen für unterschiedliche
@@ -3689,11 +3712,6 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Verfahren z
 Berechtigung zur Ausstellung der Erfüllungserklärung, die Pflichtangaben in der Erfüllungserklärung und die
 vorzulegenden Nachweise zu regeln, einen von § 92 Absatz 1 Satz 2 abweichenden Zeitpunkt für die Vorlage der
 Erfüllungserklärung zu bestimmen und weitere Bestimmungen zum Vollzug der Anforderungen und Pflichten dieses
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 Gesetzes zu treffen. Die Landesregierungen werden ferner ermächtigt, durch Rechtsverordnung zu bestimmen, dass
 Aufgaben des Vollzugs dieses Gesetzes abweichend von § 92 Absatz 1 Satz 1 und Absatz 2 Satz 1 einer geeigneten
 Stelle, einer Fachvereinigung oder einem Sachverständigen übertragen werden. Die Landesregierungen können die
@@ -3737,6 +3755,11 @@ Satz 1 ist entsprechend anzuwenden auf
 2.   die Ergebnisse der Heizungsprüfungen und Heizungsoptimierungen nach § 60b Absatz 5 Satz 1 und der
     Nachweise der durchgeführten Optimierungsmaßnahmen nach § 60b Absatz 5 Satz 2,
 3.   die Bestätigung des Wärmenetzbetreibers nach § 71b Absatz 1 Satz 3 und Absatz 2 Satz 2 oder
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 4.   den Nachweis der Reduktion des Endenergieverbrauchs um mindestens 40 Prozent nach § 71m Absatz 2
     Satz 2.
 
@@ -3749,11 +3772,6 @@ Unternehmererklärung der nach Landesrecht zuständigen Behörde auf Verlangen v
 1.   im Falle von Arbeiten nach Absatz 1 Nummer 3 die Aufwandszahl der Zentralheizung für die Bereitstellung
     von Raumwärme und, soweit die Zentralheizung mit einer zentralen Warmwasserbereitung verbunden ist,
     auch die Aufwandszahl für die Warmwasserbereitung,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 2.   im Falle von Arbeiten nach Absatz 1 Nummer 7 der gewichtete Mittelwert der auf das jeweilige
     Fördervolumen bezogenen elektrischen Leistung aller Zu- und Abluftventilatoren sowie der
     Wärmerückgewinnungsgrad, soweit Anforderungen nach § 68 einzuhalten sind.
@@ -3804,6 +3822,10 @@ Rahmen der Feuerstättenschau nach § 14 des Schornsteinfeger-Handwerksgesetzes
     gedämmt werden mussten, weiterhin ungedämmt sind und
 3.   die Abrechnungen und Bestätigungen nach § 96 Absatz 5 vorliegen.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 (2) Bei einer heizungstechnischen Anlage, die in ein bestehendes Gebäude eingebaut wird, prüft der
 bevollmächtigte Bezirksschornsteinfeger im Rahmen der bauordnungsrechtlichen Abnahme der Anlage oder,
 wenn eine solche Abnahme nicht vorgesehen ist, als Beliehener im Rahmen der ersten Feuerstättenschau nach
@@ -3813,11 +3835,6 @@ dem Einbau außerdem, ob
 2.   eine Zentralheizung mit einer zentralen selbsttätig wirkenden Einrichtung zur Verringerung und
     Abschaltung der Wärmezufuhr sowie zur Ein- und Ausschaltung elektrischer Antriebe nach § 61 Absatz 1
     ausgestattet ist,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 3.   ein mit einem flüssigen oder gasförmigen Brennstoff beschickter Heizkessel entgegen den Anforderungen
     nach den §§ 71 bis 71m eingebaut ist; dabei beschränkt sich die Prüfung auf das Vorhandensein
     entsprechender notwendiger Nachweise, Belege oder Erklärungen,
@@ -3867,6 +3884,10 @@ des Inspektionsberichts oder des Energieausweises anzugeben sowie
 (2) Die Registrierstelle teilt dem Antragsteller für jeden neu ausgestellten Inspektionsbericht oder Energieausweis
 eine Registriernummer zu. Die Registriernummer ist unverzüglich nach Antragstellung zu erteilen.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **§ 99 Stichprobenkontrollen von Energieausweisen und Inspektionsberichten über Klimaanlagen**
 
 (1) Die zuständige Behörde (Kontrollstelle) unterzieht Inspektionsberichte über Klimaanlagen oder über kombinierte
@@ -3879,10 +3900,6 @@ Stichprobenkontrolle von Energieausweisen, die nach dem Inkrafttreten des Gesetz
 ausgestellt werden und auf die die Vorschriften dieses Gesetzes anzuwenden sind, kann nach dem 31. Juli 2021
 durchgeführt werden.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (3) Die Kontrollstelle kann bei der Registrierstelle Registriernummern und dort vorliegende Angaben nach
 § 98 Absatz 1 zu neu ausgestellten Energieausweisen und Inspektionsberichten über im jeweiligen Land
 belegene Gebäude und Klimaanlagen verarbeiten, soweit dies für die Vorbereitung der Durchführung der
@@ -3932,6 +3949,11 @@ des Energieausweises den Eigentümer des Gebäudes hierüber unverzüglich zu in
 (7) Die vom Aussteller nach Absatz 6 übermittelten Kopien von Energieausweisen, Daten und Unterlagen
 dürfen, soweit sie personenbezogene Daten enthalten, von der Kontrollstelle nur für die Durchführung der
 Stichprobenkontrollen und hieraus resultierender Bußgeldverfahren gegen den Ausweisaussteller nach § 108 Absatz
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 1 Nummer 15, 17 oder 21 verarbeitet werden, soweit dies im Einzelfall jeweils erforderlich ist. Die in Satz 1 genannten
 Kopien, Daten und Unterlagen dürfen nur so lange gespeichert oder aufbewahrt werden, wie dies zur Durchführung
 der Stichprobenkontrollen und der Bußgeldverfahren im Einzelfall erforderlich ist. Sie sind nach Durchführung der
@@ -3944,10 +3966,6 @@ Klimaanlagen entsprechend anzuwenden.
 
 **§ 100 Nicht personenbezogene Auswertung von Daten**
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 (1) Die Kontrollstelle kann den nicht personenbezogenen Anteil der Daten, die sie im Rahmen des § 99 Absatz 3 Satz
 1, Absatz 4, 6 Satz 1 bis 5 und Absatz 8 verarbeitet hat, unbefristet zur Verbesserung der Erfüllung von Aufgaben
 der Energieeinsparung auswerten.
@@ -3994,6 +4012,10 @@ Rechtsverordnung nach Absatz 1 geregelt sind, auf folgende Stellen zu regeln:
     öffentlichen Rechts, die der Aufsicht des jeweiligen Landes unterstehen, oder
 2.  auf Fachvereinigungen oder Sachverständige (Beleihung).
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Bei der Übertragung im Wege der Beleihung können die Landesregierungen in der Rechtsverordnung nach Satz 1
 Nummer 2 auch die Voraussetzungen und das Verfahren der Beleihung regeln; dabei muss sichergestellt werden,
 dass die Aufgaben von der beliehenen Stelle entsprechend den in § 78 und in den §§ 98 bis 100 getroffenen
@@ -4007,10 +4029,6 @@ Rechtsverordnung auf andere Behörden übertragen.
 wesentlichen Erfahrungen mit den Stichprobenkontrollen nach § 99. Die Berichte dürfen keine personenbezogenen
 Daten enthalten.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 102 Befreiungen**
 
 (1) Die nach Landesrecht zuständigen Behörden haben auf Antrag des Eigentümers oder Bauherren von den
@@ -4060,36 +4078,37 @@ Absatz 1 Satz 1 Nummer 1
        gleichwertig begrenzt werden und der Höchstwert des Jahres-Endenergiebedarfs für Heizung,
        Warmwasserbereitung, Lüftung und Kühlung das 0,55fache des auf die Gebäudenutzfläche
        bezogenen Wertes des Jahres-Endenergiebedarfs eines Referenzgebäudes, das die gleiche
-       Geometrie, Gebäudenutzfläche und Ausrichtung wie das zu errichtende Gebäude aufweist und der
-       technischen Referenzausführung der Anlage 1 entspricht, nicht überschreitet oder
-    b)   ein Nichtwohngebäude so errichtet wird, dass die Treibhausgasemissionen des Gebäudes
-       gleichwertig begrenzt werden und der Höchstwert des Jahres-Endenergiebedarfs für Heizung,
-       Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf
-       die Nettogrundfläche bezogenen Wertes des Jahres-Endenergiebedarfs eines Referenzgebäudes,
-       das die gleiche Geometrie, Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der
-       Anordnung der Nutzungseinheiten, wie das zu errichtende Gebäude aufweist und der technischen
-       Referenzausführung der Anlage 2 entspricht, nicht überschreitet oder
-2.   von den Anforderungen des § 50 Absatz 1 in Verbindung mit § 48 befreien, wenn
 
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
-a)   ein Wohngebäude so geändert wird, dass die Treibhausgasemissionen des Gebäudes gleichwertig
-begrenzt werden und der Jahres-Endenergiebedarf für Heizung, Warmwasserbereitung, Lüftung
-und Kühlung das 1,4fache des auf die Gebäudenutzfläche bezogenen Wertes des Jahres-
-Endenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Gebäudenutzfläche und
-Ausrichtung wie das geänderte Gebäude aufweist und der technischen Referenzausführung der
-Anlage 1 entspricht, nicht überschreitet oder
-b)   ein Nichtwohngebäude so geändert wird, dass die Treibhausgasemissionen des
-Gebäudes gleichwertig begrenzt werden und der Jahres-Endenergiebedarf für Heizung,
-Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 1,4fache des auf die
-Nettogrundfläche bezogenen Wertes des Jahres-Endenergiebedarfs eines Referenzgebäudes,
+Geometrie, Gebäudenutzfläche und Ausrichtung wie das zu errichtende Gebäude aufweist und der
+technischen Referenzausführung der Anlage 1 entspricht, nicht überschreitet oder
+b)   ein Nichtwohngebäude so errichtet wird, dass die Treibhausgasemissionen des Gebäudes
+gleichwertig begrenzt werden und der Höchstwert des Jahres-Endenergiebedarfs für Heizung,
+Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf
+die Nettogrundfläche bezogenen Wertes des Jahres-Endenergiebedarfs eines Referenzgebäudes,
 das die gleiche Geometrie, Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der
-Anordnung der Nutzungseinheiten, wie das geänderte Gebäude aufweist und der technischen
-Referenzausführung der Anlage 2 entspricht, nicht überschreitet.
+Anordnung der Nutzungseinheiten, wie das zu errichtende Gebäude aufweist und der technischen
+Referenzausführung der Anlage 2 entspricht, nicht überschreitet oder
 ```
+2.   von den Anforderungen des § 50 Absatz 1 in Verbindung mit § 48 befreien, wenn
+    a)   ein Wohngebäude so geändert wird, dass die Treibhausgasemissionen des Gebäudes gleichwertig
+       begrenzt werden und der Jahres-Endenergiebedarf für Heizung, Warmwasserbereitung, Lüftung
+       und Kühlung das 1,4fache des auf die Gebäudenutzfläche bezogenen Wertes des Jahres-
+       Endenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Gebäudenutzfläche und
+       Ausrichtung wie das geänderte Gebäude aufweist und der technischen Referenzausführung der
+       Anlage 1 entspricht, nicht überschreitet oder
+    b)   ein Nichtwohngebäude so geändert wird, dass die Treibhausgasemissionen des
+       Gebäudes gleichwertig begrenzt werden und der Jahres-Endenergiebedarf für Heizung,
+       Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 1,4fache des auf die
+       Nettogrundfläche bezogenen Wertes des Jahres-Endenergiebedarfs eines Referenzgebäudes,
+       das die gleiche Geometrie, Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der
+       Anordnung der Nutzungseinheiten, wie das geänderte Gebäude aufweist und der technischen
+       Referenzausführung der Anlage 2 entspricht, nicht überschreitet.
+
 Die technische Referenzausführung in den Nummern 1.13 bis 9 der Anlage 2 ist nur insoweit zu berücksichtigen,
 wie eines der dort genannten Systeme in dem zu errichtenden Gebäude ausgeführt wird oder in dem geänderten
 Gebäude ausgeführt ist. In den Fällen des Satzes 1 Nummer 1 darf der spezifische, auf die wärmeübertragende
@@ -4126,6 +4145,10 @@ entsprechend anzuwenden.
 
 **§ 104 Kleine Gebäude und Gebäude aus Raumzellen**
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Werden bei einem zu errichtenden kleinen Gebäude die für den Fall des erstmaligen Einbaus anzuwendenden
 Höchstwerte der Wärmedurchgangskoeffizienten der Außenbauteile nach § 48 eingehalten, gelten die
 Anforderungen des § 10 Absatz 2 als erfüllt. Satz 1 ist auf ein Gebäude entsprechend anzuwenden, das für eine
@@ -4139,10 +4162,6 @@ Bausubstanz oder bei sonstiger besonders erhaltenswerter Bausubstanz die Erfüll
 dieses Gesetzes die Substanz oder das Erscheinungsbild beeinträchtigt oder andere Maßnahmen zu einem
 unverhältnismäßig hohen Aufwand führen, kann von den Anforderungen dieses Gesetzes abgewichen werden.
 
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 **§ 106 Gemischt genutzte Gebäude**
 
 (1) Teile eines Wohngebäudes, die sich hinsichtlich der Art ihrer Nutzung und der gebäudetechnischen Ausstattung
@@ -4191,6 +4210,10 @@ Zusammenhang stehen und nach den Absätzen 1 bis 4 gemeinsam Anforderungen diese
 einem Eigentümer gehören. An die Stelle der Vereinbarung nach Absatz 1 tritt eine schriftliche Dokumentation
 des Eigentümers, die der zuständigen Behörde auf Verlangen vorzulegen ist.
 
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 **Fußnote**
 
 (+++ § 107 Abs. 5 bis 7: Zur Anwendung vgl. § 103 Abs. 4 Satz 3 +++)
@@ -4203,11 +4226,6 @@ des Eigentümers, die der zuständigen Behörde auf Verlangen vorzulegen ist.
     errichtet,
 2.   entgegen § 47 Absatz 1 Satz 1 nicht dafür sorgt, dass eine dort genannte Geschossdecke gedämmt ist,
 3.   entgegen § 48 Satz 1 eine dort genannte Maßnahme nicht richtig ausführt,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 4.   entgegen § 60a Absatz 1 Satz 1 eine Wärmepumpe nicht oder nicht rechtzeitig einer Betriebsprüfung
     unterzieht,
 5.   entgegen § 60a Absatz 5 Satz 2 oder § 60b Absatz 5 Satz 2 eine Optimierungsmaßnahme nicht oder nicht
@@ -4246,6 +4264,11 @@ Justiz ‒ http://www.gesetze-im-internet.de
     oder eine Kopie übergeben wird,
 24.   entgegen § 80 Absatz 4 Satz 1 oder 4, jeweils auch in Verbindung mit Absatz 5, einen Energieausweis oder
     eine Kopie nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 25.   entgegen § 80 Absatz 4 Satz 5, auch in Verbindung mit Absatz 5, einen Energieausweis oder eine Kopie
     nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übergibt,
 26.   entgegen § 83 Absatz 1 Satz 2 oder Absatz 3 Satz 1 nicht dafür Sorge trägt, dass dort genannte Daten
@@ -4256,11 +4279,6 @@ Justiz ‒ http://www.gesetze-im-internet.de
 29.   entgegen § 96 Absatz 1 oder Absatz 4 eine Bestätigung nicht, nicht richtig, nicht vollständig, nicht in der
     vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 30.   entgegen § 96 Absatz 5 Satz 2 eine Abrechnung nicht oder nicht mindestens fünf Jahre aufbewahrt,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 31.   entgegen § 96 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, eine Bescheinigung nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig ausstellen lässt oder nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig vorlegt oder
@@ -4310,6 +4328,11 @@ die Bauantragstellung oder der Antrag auf Zustimmung oder die Bauanzeige vor dem
 Gesetzes erfolgte. Für diese Vorhaben sind die Bestimmungen der mit dem Inkrafttreten dieses Gesetzes
 zugleich abgelösten oder geänderten Rechtsvorschriften in den zum Zeitpunkt der Bauantragstellung oder
 des Antrags auf Zustimmung oder der Bauanzeige jeweils geltenden Fassungen weiter anzuwenden. Die
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 Sätze 1 und 2 sind entsprechend anzuwenden auf alle Fälle nicht genehmigungsbedürftiger Vorhaben; für
 Vorhaben, die nach Maßgabe des Bauordnungsrechts der zuständigen Behörde zur Kenntnis zu geben sind,
 ist dabei auf den Zeitpunkt des Eingangs der Kenntnisgabe bei der zuständigen Behörde und für sonstige
@@ -4322,11 +4345,6 @@ des Antrags auf Zustimmung oder der Bauanzeige geltenden Fassung anzuwenden. Sat
 anzuwenden auf alle Fälle nicht genehmigungsbedürftiger Vorhaben; für Vorhaben, die nach Maßgabe des
 Bauordnungsrechts der zuständigen Behörde zur Kenntnis zu geben sind, ist dabei auf den Zeitpunkt des
 Eingangs der Kenntnisgabe bei der zuständigen Behörde und für sonstige nicht genehmigungsbedürftige,
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 insbesondere genehmigungs-, anzeige- und verfahrensfreie Vorhaben auf den Zeitpunkt des Beginns der
 Bauausführung abzustellen.
 
@@ -4376,6 +4394,11 @@ Vorlage und die Übergabe sind im Übrigen die Vorgaben des § 80 Absatz 4 und 5
 (1) Zur Ausstellung von Energieausweisen für bestehende Wohngebäude nach § 80 Absatz 3 sind ergänzend zu §
 88 auch Personen berechtigt, die vor dem 25. April 2007 nach Maßgabe der Richtlinie des Bundesministeriums für
 Wirtschaft und Technologie über die Förderung der Beratung zur sparsamen und rationellen Energieverwendung
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
 in Wohngebäuden vor Ort vom 7. September 2006 (BAnz S. 6379) als Antragsberechtigte beim Bundesamt für
 Wirtschaft und Ausfuhrkontrolle registriert worden sind.
 
@@ -4389,11 +4412,6 @@ Weiterbildung.
 (3) Zur Ausstellung von Energieausweisen für bestehende Wohngebäude nach § 80 Absatz 3 sind ergänzend zu §
 88 auch Personen berechtigt, die am 25. April 2007 über eine abgeschlossene Fortbildung auf der Grundlage des §
 42a der Handwerksordnung für Energieberatung im Handwerk verfügt haben. Satz 1 ist entsprechend auf Personen
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
 anzuwenden, die eine solche Fortbildung vor dem 25. April 2007 begonnen haben, nach erfolgreichem Abschluss
 der Fortbildung.
 
@@ -4452,6 +4470,19 @@ g⊥ = 0,60
 •   DIN V 18599-2:
 2018-09:
 g = 0,60
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
+Referenzausführung/Wert (Maßeinheit)
+```
+Nummer Bauteile/Systeme Eigenschaft
+
+```
+(zu den Nummern 1.1 bis 4)
+```
 1.5 Dachflächenfenster, Glasdächer Wärmedurchgangskoeffizient UW = 1,4 W/(m (^2) •K)
 und Lichtbänder
 Gesamtenergiedurchlassgrad
@@ -4464,49 +4495,24 @@ g⊥ = 0,60
 2018-09:
 g = 0,60
 1.6 Lichtkuppeln Wärmedurchgangskoeffizient UW = 2,7 W/(m (^2) •K)
-Gesamtenergiedurchlassgrad Bei Berechnung nach
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-Referenzausführung/Wert (Maßeinheit)
-```
-Nummer Bauteile/Systeme Eigenschaft
-
-```
-(zu den Nummern 1.1 bis 4)
-```
-```
+Gesamtenergiedurchlassgrad
 der Verglasung
-```
-### •   DIN V 4108-6:
-
-### 2003-06:
-
-```
+Bei Berechnung nach
+•   DIN V 4108-6:
+2003-06:
 g⊥ = 0,64
 •   DIN V 18599-2:
 2018-09:
 g = 0,64
-```
-```
 1.7 Außentüren; Türen gegen
 unbeheizte Räume
 Wärmedurchgangskoeffizient U = 1,8 W/(m^2 •K)
-```
-```
 2 Bauteile nach den Nummern 1.1
 bis 1.7
 Wärmebrückenzuschlag ΔUWB = 0,05 W/(m^2 •K)
-```
-```
-3 Solare Wärmegewinne über
-opake Bauteile
+3 Solare Wärmegewinne über opake
+Bauteile
 wie das zu errichtende Gebäude
-```
-```
 4 Luftdichtheit der Gebäudehülle Bemessungswert n 50 Bei Berechnung nach
 •   DIN V 4108-6:
 2003-06:
@@ -4515,14 +4521,11 @@ Dichtheitsprüfung
 •   DIN V 18599-2:
 2018-09:
 nach Kategorie I
-```
-```
 5 Sonnenschutzvorrichtung keine Sonnenschutzvorrichtung
 6 Heizungsanlage
 •   Wärmeerzeugung durch Brennwertkessel (verbessert,
 bei der Berechnung nach § 20 Absatz 1 nach 1994),
 Erdgas, Aufstellung:
-```
 –   für Gebäude bis zu 500 m (^2) Gebäudenutzfläche
 innerhalb der thermischen Hülle
 –  
@@ -4535,13 +4538,21 @@ Gebäudenutzfläche außerhalb der thermischen
 Hülle
 ```
 ```
-•   Auslegungstemperatur 55/45 °C, zentrales
-Verteilsystem innerhalb der wärmeübertragenden
-Umfassungsfläche, innen liegende Stränge und
-Anbindeleitungen, Standard-Leitungslängen nach DIN
-V 4701-10: 2003-08 Tabelle 5.3-2, Pumpe auf Bedarf
-ausgelegt (geregelt, Δp const), Rohrnetz ausschließlich
-statisch hydraulisch abgeglichen
+•   Auslegungstemperatur 55/45 °C, zentrales Verteilsystem
+innerhalb der wärmeübertragenden Umfassungsfläche,
+innen liegende Stränge und Anbindeleitungen, Standard-
+Leitungslängen nach DIN V 4701-10: 2003-08 Tabelle
+```
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
+Referenzausführung/Wert (Maßeinheit)
+Nummer Bauteile/Systeme Eigenschaft
+(zu den Nummern 1.1 bis 4)
+5.3-2, Pumpe auf Bedarf ausgelegt (geregelt, Δp const),
+Rohrnetz ausschließlich statisch hydraulisch abgeglichen
 •   Wärmeübergabe mit freien statischen Heizflächen,
 Anordnung an normaler Außenwand, Thermostatventile
 mit Proportionalbereich 1 K nach DIN V 4701-10:
@@ -4549,21 +4560,11 @@ mit Proportionalbereich 1 K nach DIN V 4701-10:
 18599-5: 2018-09
 ```
 ```
-7 Anlage zur
-Warmwasserbereitung
+7 Anlage zur Warmwasserbereitung
 •   zentrale Warmwasserbereitung
-•   gemeinsame Wärmebereitung mit Heizungsanlage
-nach Nummer 6
+•   gemeinsame Wärmebereitung mit Heizungsanlage nach
+Nummer 6
 •   bei Berechnung nach § 20 Absatz 1:
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-Referenzausführung/Wert (Maßeinheit)
-Nummer Bauteile/Systeme Eigenschaft
-(zu den Nummern 1.1 bis 4)
 allgemeine Randbedingungen gemäß DIN V 18599-8:
 2018-09 Tabelle 6, Solaranlage mit Flachkollektor nach
 1998 sowie Speicher ausgelegt gemäß DIN V 18599-8:
@@ -4574,27 +4575,30 @@ Trinkwassererwärmung entsprechend den Vorgaben
 nach DIN V 4701-10: 2003-08 Tabelle 5.1-10 mit
 Speicher, indirekt beheizt (stehend), gleiche Aufstellung
 wie Wärmeerzeuger,
-–   kleine Solaranlage bei A
-N ≤ 500 m
+–  
+kleine Solaranlage bei AN ≤ 500 m
 ```
-(^2) (bivalenter
+### 2
+
+```
+(bivalenter
 Solarspeicher
 –  
 große Solaranlage bei AN > 500 m
-
+```
 ### 2
 
 ```
 •   Verteilsystem mit Zirkulation, innerhalb der
-wärmeübertragenden Umfassungsfläche, innen
-liegende Stränge, gemeinsame Installationswand,
-Standard-Leitungslängen nach DIN V 4701-10: 2003-08
-Tabelle 5.1-2
+wärmeübertragenden Umfassungsfläche, innen liegende
+Stränge, gemeinsame Installationswand, Standard-
+Leitungslängen nach DIN V 4701-10: 2003-08 Tabelle
+5.1-2
 ```
 ```
 8 Kühlung keine Kühlung
-9 Lüftung zentrale Abluftanlage mit Außenwandluftdurchlässen (ALD),
-nicht bedarfsgeführt mit geregeltem DC-Ventilator,
+9 Lüftung zentrale Abluftanlage mit Außenwandluftdurchlässen (ALD), nicht
+bedarfsgeführt mit geregeltem DC-Ventilator,
 •  DIN V 4701: 2003-08: Anlagen-Luftwechsel n
 A = 0,4 h
 ```
@@ -4612,14 +4616,13 @@ Technische Ausführung des Referenzgebäudes (Nichtwohngebäude)**
 
 (Fundstelle: BGBl. I 2020, 1769 - 1773)
 
+
 ```
-Nummer Bauteile/Systeme
-Eigenschaft
-(zu den Nummern 1.1 bis 1.13)
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
+Nummer Bauteile/Systeme (zu den Nummern 1.1 bis 1.13)Eigenschaft Referenzausführung/Wert(Maßeinheit)
+
 ```
-Referenzausführung/Wert
-(Maßeinheit)
 Raum-
 Solltemperaturen
 im Heizfall
@@ -4657,50 +4660,35 @@ Lichttransmissionsgrad der
 Verglasung
 ```
 ```
-τv,D65,SNA
-= 0,72
+τv,D65,SNA = 0,72 τv,D65,SNA = 0,78
 ```
 ```
-τv,D65,SNA
-= 0,78
-1.3 Wand gegen Erdreich, Wärmedurchgangskoeffizient
-U = 0,35 W/(m^2 •K) U = 0,35 W/(m^2 •K)
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-Nummer Bauteile/Systeme (zu den Nummern 1.1 bis 1.13)Eigenschaft Referenzausführung/Wert(Maßeinheit)
-
-```
-Raum-
-Solltemperaturen
-im Heizfall
-≥ 19 °C
-```
-```
-Raum-
-Solltemperaturen
-im Heizfall
-von 12 bis < 19 °C
+1.3 Wand gegen Erdreich,
 Bodenplatte, Wände und
 Decken zu unbeheizten
 Räumen (außer
-Abseitenwände nach
-Nummer 1.4)
+Abseitenwände nach Nummer
+1.4)
+```
+```
+Wärmedurchgangskoeffizient
+U = 0,35 W/(m^2 •K) U = 0,35 W/(m^2 •K)
+```
+```
 1.4 Dach (soweit nicht unter
 Nummer 1.5), oberste
 Geschossdecke, Wände zu
 Abseiten
 ```
-Wärmedurchgangskoeffizient U = 0,20 W/(m (^2) •K) U = 0,35 W/(m (^2) •K)
-Wärmedurchgangskoeffizient UW = 2,7
-W/(m^2 •K)
-
-### UW = 2,7
-
 ```
-W/(m^2 •K)
+Wärmedurchgangskoeffizient
+U = 0,20 W/(m^2 •K) U = 0,35 W/(m^2 •K)
+```
+```
+Wärmedurchgangskoeffizient
+UW = 2,7 W/(m^2 •K) UW = 2,7 W/(m^2 •K)
+```
+```
 Gesamtenergiedurchlassgrad der
 Verglasung
 ```
@@ -4715,130 +4703,72 @@ Lichttransmissionsgrad der
 Verglasung
 ```
 ```
-τv,D65,SNA
-= 0,76
+τv,D65,SNA = 0,76 τv,D65,SNA = 0,76
 ```
 ```
-τv,D65,SNA
-= 0,76
-Wärmedurchgangskoeffizient UW = 2,4
+Wärmedurchgangskoeffizient U
+W = 2,4 W/(m
 ```
-```
-W/(m^2 •K)
-```
-### UW = 2,4
-
-```
-W/(m^2 •K)
+(^2) •K) U
+W = 2,4 W/(m
+(^2) •K)
 Gesamtenergiedurchlassgrad der
 Verglasung
-```
-```
 g = 0,55 g = 0,55
-```
-```
 1.6 Lichtbänder
-```
-```
 Lichttransmissionsgrad der
 Verglasung
-```
-```
-τv,D65,SNA
-= 0,48
-```
-```
-τv,D65,SNA
-= 0,48
-Wärmedurchgangskoeffizient UW = 2,7
-```
-```
-W/(m^2 •K)
-```
-### UW = 2,7
-
-```
-W/(m^2 •K)
+τv,D65,SNA = 0,48 τv,D65,SNA = 0,48
+Wärmedurchgangskoeffizient U
+W = 2,7 W/(m
+(^2) •K) U
+W = 2,7 W/(m
+(^2) •K)
 Gesamtenergiedurchlassgrad der
 Verglasung
-```
-```
 g = 0,64 g = 0,64
-```
-```
 1.7 Lichtkuppeln
-```
-```
 Lichttransmissionsgrad der
 Verglasung
-```
-```
-τv,D65,SNA
-= 0,59
-```
-```
-τv,D65,SNA
-= 0,59
-Wärmedurchgangskoeffizient UW = 1,3
-```
-```
-W/(m^2 •K)
-```
-### UW = 1,9
-
-```
-W/(m^2 •K)
+τv,D65,SNA = 0,59 τv,D65,SNA = 0,59
+Wärmedurchgangskoeffizient
+UW = 1,3 W/(m^2 •K) UW = 1,9 W/(m^2 •K)
 Gesamtenergiedurchlassgrad der
 Verglasung
-```
-```
 g = 0,60 g = 0,60
-```
-```
 1.8 Fenster, Fenstertüren
 (siehe auch Nummer 1.14)
-```
-```
 Lichttransmissionsgrad der
 Verglasung
-```
-```
-τv,D65,SNA
-= 0,78
-```
-```
-τv,D65,SNA
-= 0,78
-Wärmedurchgangskoeffizient UW = 1,4
-```
-```
-W/(m^2 •K)
-```
-### UW = 1,9
-
-```
-W/(m^2 •K)
+τv,D65,SNA = 0,78 τv,D65,SNA = 0,78
+Wärmedurchgangskoeffizient
+UW = 1,4 W/(m^2 •K) UW = 1,9 W/(m^2 •K)
 Gesamtenergiedurchlassgrad der
 Verglasung
-```
-```
 g = 0,60 g = 0,60
-```
-```
 1.9 Dachflächenfenster
 (siehe auch Nummer 1.14)
-```
-```
 Lichttransmissionsgrad der
 Verglasung
+τv,D65,SNA = 0,78 τv,D65,SNA = 0,78
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+Nummer Bauteile/Systeme (zu den Nummern 1.1 bis 1.13)Eigenschaft Referenzausführung/Wert(Maßeinheit)
+
+```
+Raum-
+Solltemperaturen
+im Heizfall
+≥ 19 °C
 ```
 ```
-τv,D65,SNA
-= 0,78
-```
-```
-τv,D65,SNA
-= 0,78
+Raum-
+Solltemperaturen
+im Heizfall
+von 12 bis < 19 °C
 1.10 Außentüren; Türen gegen
 unbeheizte Räume; Tore
 ```
@@ -4860,24 +4790,6 @@ Wärmebrückenzuschlag ΔUWB =
 
 ```
 0,1 W/(m^2 •K)
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-Nummer Bauteile/Systeme (zu den Nummern 1.1 bis 1.13)Eigenschaft Referenzausführung/Wert(Maßeinheit)
-
-```
-Raum-
-Solltemperaturen
-im Heizfall
-≥ 19 °C
-```
-```
-Raum-
-Solltemperaturen
-im Heizfall
-von 12 bis < 19 °C
 1.12 Gebäudedichtheit Kategorie nach DIN V 18599-2:
 2018-09 Tabelle 7
 ```
@@ -4886,9 +4798,8 @@ Kategorie I
 ```
 ```
 1.13 Tageslichtversorgung bei
-Sonnen- oder Blendschutz
-oder bei Sonnen- und
-Blendschutz
+Sonnen- oder Blendschutz oder
+bei Sonnen- und Blendschutz
 ```
 ```
 Tageslichtversorgungsfaktor
@@ -4938,9 +4849,9 @@ Konstantlichtkontrolle/tageslichtabhängige Kontrolle:
 –   in Zonen der Nutzungen 5, 9, 10, 14, 22.1 bis 22.3, 29, 37 bis 40*:
 Konstantlichtkontrolle gemäß DIN V 18599-4: 2018-09 Abschnitt 5.4.6
 –   in Zonen der Nutzungen 1 bis 4, 8, 12, 28, 31 und 36*:
-tageslichtabhängige Kontrolle, Kontrollart „gedimmt, nicht
-ausschaltend“ gemäß DIN V 18599-4: 2018-09 Abschnitt 5.5.4
-(einschließlich Konstantlichtkontrolle)
+tageslichtabhängige Kontrolle, Kontrollart „gedimmt, nicht ausschaltend“
+gemäß DIN V 18599-4: 2018-09 Abschnitt 5.5.4 (einschließlich
+Konstantlichtkontrolle)
 –   im Übrigen:                                 manuell
 ```
 ```
@@ -4951,21 +4862,10 @@ ausschaltend“ gemäß DIN V 18599-4: 2018-09 Abschnitt 5.5.4
 Brennwertkessel (verbessert, nach 1994) nach DIN V 18599-5: 2018-09, Erdgas,
 Aufstellung außerhalb der thermischen Hülle, Wasserinhalt
 > 0,15 l/kW
-4.2 Heizung (Raumhöhen ≤ 4 m)
-–   Wärmeverteilung
-```
-```
-–   bei statischer Heizung und Umluftheizung (dezentrale Nachheizung in
-RLT-Anlage):
-Zweirohrnetz, außen liegende Verteilleitungen im unbeheizten Bereich,
-innen liegende Steigstränge, innen liegende Anbindeleitungen,
-Systemtemperatur 55/45 °C, ausschließlich statisch hydraulisch
-abgeglichen, Δp const, Pumpe auf Bedarf ausgelegt, Pumpe mit
-intermittierendem Betrieb, keine Überströmventile, für den Referenzfall
 ```
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 Nummer Bauteile/Systeme (zu den Nummern 1.1 bis 1.13)Eigenschaft Referenzausführung/Wert(Maßeinheit)
 
@@ -4980,8 +4880,19 @@ Raum-
 Solltemperaturen
 im Heizfall
 von 12 bis < 19 °C
-sind die Rohrleitungslängen und die Umgebungstemperaturen gemäß
-den Standardwerten nach DIN V 18599-5: 2018-09 zu ermitteln.
+4.2 Heizung (Raumhöhen ≤ 4 m)
+–   Wärmeverteilung
+```
+```
+–   bei statischer Heizung und Umluftheizung (dezentrale Nachheizung in
+RLT-Anlage):
+Zweirohrnetz, außen liegende Verteilleitungen im unbeheizten Bereich,
+innen liegende Steigstränge, innen liegende Anbindeleitungen,
+Systemtemperatur 55/45 °C, ausschließlich statisch hydraulisch
+abgeglichen, Δp const, Pumpe auf Bedarf ausgelegt, Pumpe mit
+intermittierendem Betrieb, keine Überströmventile, für den Referenzfall
+sind die Rohrleitungslängen und die Umgebungstemperaturen gemäß den
+Standardwerten nach DIN V 18599-5: 2018-09 zu ermitteln.
 –   bei zentralem RLT-Gerät:
 Zweirohrnetz, Systemtemperatur 70/55 °C, ausschließlich statisch
 hydraulisch abgeglichen, Δp const, Pumpe auf Bedarf ausgelegt, für den
@@ -5019,11 +4930,11 @@ Raumtemperaturregelung P-Regler (nicht zertifiziert)
 ```
 ```
 Wärmeerzeuger:
-allgemeine Randbedingungen gemäß DIN V 18599-8: 2018-09 Tabelle
-6, Solaranlage mit Flachkollektor (nach 1998) zur ausschließlichen
-Trinkwassererwärmung nach DIN V 18599-8: 2018-09 mit Standardwerten
-gemäß Tabelle 19 bzw. Abschnitt 6.4.3, jedoch abweichend auch für zentral
-warmwasserversorgte Nettogrundflächen über 3 000 m^2
+allgemeine Randbedingungen gemäß DIN V 18599-8: 2018-09 Tabelle 6, Solaranlage
+mit Flachkollektor (nach 1998) zur ausschließlichen Trinkwassererwärmung nach
+DIN V 18599-8: 2018-09 mit Standardwerten gemäß Tabelle 19 bzw. Abschnitt 6.4.3,
+jedoch abweichend auch für zentral warmwasserversorgte Nettogrundflächen über
+3 000 m^2
 Restbedarf über Wärmeerzeuger der Heizung
 Wärmespeicherung:
 bivalenter, außerhalb der thermischen Hülle aufgestellter Speicher nach DIN V
@@ -5045,21 +4956,9 @@ pro Gerät bei Gebäudezonen, die einen Warmwasserbedarf von höchstens 200 Wh /
 ```
 spezifische Leistungsaufnahme Ventilator PSFP = 1,0 kW/(m^3 /s)
 ```
-```
-6.2 Raumlufttechnik
-–   Zu- und Abluftanlage
-```
-```
-–  Luftvolumenstromregelung:
-Soweit für Zonen der Nutzungen 4, 8, 9, 12, 13, 23, 24, 35, 37 und 40* eine
-Zu- und Abluftanlage vorgesehen wird, ist diese mit bedarfsabhängiger
-Luftvolumenstromregelung Kategorie IDA-C4 gemäß DIN V 18599-7:
-2018-09 Abschnitt 5.8.1 auszulegen.
-–  Spezifische Leistungsaufnahme:
-```
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 Nummer Bauteile/Systeme (zu den Nummern 1.1 bis 1.13)Eigenschaft Referenzausführung/Wert(Maßeinheit)
 
@@ -5074,18 +4973,23 @@ Raum-
 Solltemperaturen
 im Heizfall
 von 12 bis < 19 °C
+6.2 Raumlufttechnik
+–   Zu- und Abluftanlage
 ```
 ```
-–  Zuluftventilator P
-SFP = 1,5 kW/(m
-```
-(^3) /s)
+–  Luftvolumenstromregelung:
+Soweit für Zonen der Nutzungen 4, 8, 9, 12, 13, 23, 24, 35, 37 und 40*
+eine Zu- und Abluftanlage vorgesehen wird, ist diese mit bedarfsabhängiger
+Luftvolumenstromregelung Kategorie IDA-C4 gemäß DIN V 18599-7:
+2018-09 Abschnitt 5.8.1 auszulegen.
+–  Spezifische Leistungsaufnahme:
+– 
+Zuluftventilator PSFP = 1,5 kW/(m^3 /s)
 – 
 Abluftventilator PSFP = 1,0 kW/(m^3 /s)
-Erweiterte PSFP-Zuschläge nach DIN  EN  16798-3: 2017-11
-Abschnitt 9.5.2.2 können für HEPA-Filter, Gasfilter sowie
-Wärmerückführungsbauteile der Klassen H2 oder H1 nach DIN EN
-13053:2007-11 angerechnet werden.
+Erweiterte PSFP-Zuschläge nach DIN  EN  16798-3: 2017-11 Abschnitt
+9.5.2.2 können für HEPA-Filter, Gasfilter sowie Wärmerückführungsbauteile
+der Klassen H2 oder H1 nach DIN EN 13053:2007-11 angerechnet werden.
 –  Wärmerückgewinnung über Plattenwärmeübertrager:
 Temperaturänderungsgrad  ηt,comp = 0,6
 Zulufttemperatur        18 °C
@@ -5093,13 +4997,20 @@ Druckverhältniszahl      fP = 0,4
 –  Luftkanalführung:        innerhalb des Gebäudes
 –  bei Kühlfunktion:       Auslegung für 6/12 °C,
               keine indirekte Verdunstungskühlung
+```
+```
 6.3 Raumlufttechnik
 –   Luftbefeuchtung
-für den Referenzfall ist die Einrichtung zur Luftbefeuchtung wie beim zu
-errichtenden Gebäude anzunehmen
+```
+```
+für den Referenzfall ist die Einrichtung zur Luftbefeuchtung wie beim zu errichtenden
+Gebäude anzunehmen
+```
+```
 6.4 Raumlufttechnik
-–   Nur-Luft-
-Klimaanlagen
+–   Nur-Luft-Klimaanlagen
+```
+```
 als kühllastgeregeltes Variabel-Volumenstrom-System ausgeführt:
 Druckverhältniszahl:      fP = 0,4
 konstanter Vordruck
@@ -5110,17 +5021,19 @@ Kaltwasser-Ventilatorkonvektor, Brüstungsgerät
 Kaltwassertemperatur      14/18 °C
 –  Kaltwasserkreis Raumkühlung:
 Überströmung         10 %
-spezifische elektrische Leistung der Verteilung Pd,spez = 30 Wel/
-kWKälte
+spezifische elektrische Leistung der Verteilung Pd,spez = 30 Wel/kWKälte
 hydraulisch abgeglichen,
 geregelte Pumpe, Pumpe hydraulisch entkoppelt,
 saisonale sowie Nacht- und Wochenendabschaltung nach
 DIN V 18599-7: 2018-09, Anhang D
+```
+```
 8 Kälteerzeugung Erzeuger:
 Kolben/Scrollverdichter mehrstufig schaltbar, R134a, außenluftgekühlt, kein
 Speicher, Baualterfaktor fc,B = 1,0, Freikühlfaktor fFC = 1,0
 Kaltwassertemperatur:
-–  bei mehr als 5 000 m (^2) mittels Raumkühlung
+– 
+bei mehr als 5 000 m^2 mittels Raumkühlung
 konditionierter Nettogrundfläche, für diesen
 Konditionierungsanteil            14/18 °C
 –  im Übrigen:                  6/12 °C
@@ -5129,13 +5042,10 @@ Kaltwasserkreis Erzeuger inklusive RLT-Kühlung:
 spezifische elektrische Leistung der Verteilung Pd,spez = 20 Wel/kWKälte
 hydraulisch abgeglichen,
 ungeregelte Pumpe, Pumpe hydraulisch entkoppelt,
-saisonale sowie Nacht- und Wochenendabschaltung nach DIN V 18599-7: 2018-09,
-Anhang D,
-Verteilung außerhalb der konditionierten Zone.
-
+```
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
 Nummer Bauteile/Systeme (zu den Nummern 1.1 bis 1.13)Eigenschaft Referenzausführung/Wert(Maßeinheit)
@@ -5151,9 +5061,12 @@ Raum-
 Solltemperaturen
 im Heizfall
 von 12 bis < 19 °C
+saisonale sowie Nacht- und Wochenendabschaltung nach DIN V 18599-7: 2018-09,
+Anhang D,
+Verteilung außerhalb der konditionierten Zone.
 Der Primärenergiebedarf für das Kühlsystem und die Kühlfunktion der
-raumlufttechnischen Anlage darf für Zonen der Nutzungen 1 bis 3, 8, 10, 16, 18
-bis 20 und 31* nur zu 50 % angerechnet werden.
+raumlufttechnischen Anlage darf für Zonen der Nutzungen 1 bis 3, 8, 10, 16, 18 bis
+20 und 31* nur zu 50 % angerechnet werden.
 9 Gebäudeautomation Klasse C nach DIN V 18599-11: 2018-09
 ```
 ```
@@ -5179,8 +5092,6 @@ Zonen mit
 Raum-Solltemperaturen
 im Heizfall von
 12 bis < 19 °C
-```
-```
 1 Opake Außenbauteile, soweit nicht
 in Bauteilen der Nummern 3 und 4
 enthalten
@@ -5189,32 +5100,23 @@ enthalten
 Ū = 0,28 W/(m^2 •K) Ū = 0,50 W/(m^2 •K)
 ```
 ```
-2 Transparente Außenbauteile,
-soweit nicht in Bauteilen der
-Nummern 3 und 4 enthalten
+2 Transparente Außenbauteile, soweit
+nicht in Bauteilen der Nummern 3
+und 4 enthalten
 ```
 ```
-Ū = 1,5 W/(m
+Ū = 1,5 W/(m^2 •K) Ū = 2,8 W/(m^2 •K)
 ```
-### 2
-
-```
-•K) Ū = 2,8 W/(m
-```
-### 2
-
-### •K)
-
 3 Vorhangfassade Ū = 1,5 W/(m (^2) •K) Ū = 3,0 W/(m (^2) •K)
 4 Glasdächer, Lichtbänder,
 Lichtkuppeln Ū = 2,5 W/(m
 (^2) •K) Ū = 3,1 W/(m (^2) •K)
-Bei der Berechnung des Mittelwerts des jeweiligen Bauteils sind die Bauteile nach Maßgabe ihres Flächenanteils
-zu berücksichtigen. Die Wärmedurchgangskoeffizienten von Bauteilen gegen unbeheizte Räume (außer
-Dachräumen) oder Erdreich sind zusätzlich mit dem Faktor 0,5 zu gewichten. Bei der Berechnung des Mittelwerts
-der an das Erdreich angrenzenden Bodenplatten bleiben die Flächen unberücksichtigt, die mehr als 5 Meter
-vom äußeren Rand des Gebäudes entfernt sind. Die Berechnung ist für Zonen mit unterschiedlichen Raum-
-Solltemperaturen im Heizfall getrennt durchzuführen.
+Bei der Berechnung des Mittelwerts des jeweiligen Bauteils sind die Bauteile nach Maßgabe ihres Flächenanteils zu
+berücksichtigen. Die Wärmedurchgangskoeffizienten von Bauteilen gegen unbeheizte Räume (außer Dachräumen)
+oder Erdreich sind zusätzlich mit dem Faktor 0,5 zu gewichten. Bei der Berechnung des Mittelwerts der an das
+Erdreich angrenzenden Bodenplatten bleiben die Flächen unberücksichtigt, die mehr als 5 Meter vom äußeren
+Rand des Gebäudes entfernt sind. Die Berechnung ist für Zonen mit unterschiedlichen Raum-Solltemperaturen im
+Heizfall getrennt durchzuführen.
 Für die Berechnung des Wärmedurchgangskoeffizienten der an Erdreich grenzenden Bauteile ist DIN V 18599-2:
 2018-09 Abschnitt 6.1.4.3 und für opake Bauteile ist DIN 4108-4: 2017-03 in Verbindung mit DIN EN ISO 6946:
 2008-04 anzuwenden. Für die Berechnung des Wärmedurchgangskoeffizienten transparenter Bauteile sowie von
@@ -5226,31 +5128,33 @@ Nummer Kategorie Energieträger
 Primärenergiefaktoren
 nicht erneuerbarer Anteil
 1 Heizöl 1,1
-2 Erdgas 1,1
-3 Flüssiggas 1,1
-4
+2
 Fossile Brennstoffe
-Steinkohle 1,1
+Erdgas 1,1
 
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
 Nummer Kategorie Energieträger
 Primärenergiefaktoren
 nicht erneuerbarer Anteil
+3 Flüssiggas 1,1
+4 Steinkohle 1,1
 5 Braunkohle 1,2
 6 Biogas 1,1
 7 Bioöl 1,1
+```
+```
 8
 ```
 ```
 Biogene Brennstoffe
+```
+```
 Holz 0,2
 9 netzbezogen 1,8
-```
-```
 10 gebäudenah erzeugt (aus
 Photovoltaik oder Windkraft)
 ```
@@ -5271,6 +5175,8 @@ Solarthermie, Umgebungswärme
 ```
 13 Erdkälte, Umgebungskälte 0,0
 14 Abwärme 0,0
+```
+```
 15
 ```
 ```
@@ -5313,14 +5219,17 @@ eventuellen Glasvorbaus) sind mit außen liegenden Sonnenschutzvorrichtungen mit
 Abminderungsfaktor FC ≤ 0,30 ausgestattet.
 ```
 ```
-e) 
-Die beheizte Bruttogrundfläche des Gebäudes ABGF, Gebäude
+e)  Die beheizte Bruttogrundfläche des Gebäudes A
+BGF, Gebäude
 ```
-### 1
+(^1) darf nicht kleiner als 115
+Quadratmeter und nicht größer als 2 300 Quadratmeter sein.
+
 
 ```
-darf nicht kleiner als 115
-Quadratmeter und nicht größer als 2 300 Quadratmeter sein.
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
 f) 
 Die mittlere Geschosshöhe
 ```
@@ -5329,12 +5238,6 @@ Die mittlere Geschosshöhe
 ```
 nach DIN V 18599-1: 2018-09 des Gebäudes darf nicht kleiner als 2,5
 Meter und nicht größer als 3 Meter sein.
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
 g)  Die Kompaktheit des Gebäudes in Bezug auf das Verhältnis von Bruttoumfang beheizter
 Bruttogrundfläche ABGF, Geschoss jedes beheizten Geschosses muss folgende Voraussetzung
 erfüllen: Das Quadrat des Bruttoumfangs Ubrutto in Meter darf höchstens das 20fache der beheizten
@@ -5346,65 +5249,71 @@ Bruttogeschossflächen aller Geschosse ohne Vor- oder Rücksprünge deckungsglei
 oberste Geschoss darf eine kleinere beheizte Bruttogeschossfläche als das darunter liegende
 Geschoss besitzen.^3
 i)  Insgesamt darf das Gebäude nicht mehr als sechs beheizte Geschosse besitzen.
-j) 
-Der Fensterflächenanteil des Gebäudes
-```
-### 4
-
-```
-darf bei zweiseitig angebauten Gebäuden nicht mehr als
+j)  Der Fensterflächenanteil des Gebäudes^4 darf bei zweiseitig angebauten Gebäuden nicht mehr als
 35 Prozent, bei allen anderen Gebäuden nicht mehr als 30 Prozent an der gesamten Fassadenfläche
 des Gebäudes betragen.
 k)  Die Gesamtfläche spezieller Fenstertüren an der gesamten Fassadenfläche des Gebäudes darf
 bei freistehenden Gebäuden und einseitig angebauten Gebäuden 4,5 Prozent und bei zweiseitig
 angebauten Gebäuden 5,5 Prozent nicht überschreiten.
-l)  Die Fläche der in nördliche Richtung orientierten^5 Fenster des Gebäudes darf nicht größer sein als
+```
+l)  Die Fläche der in nördliche Richtung orientierten (^5) Fenster des Gebäudes darf nicht größer sein als
 der Mittelwert der Fensterflächen anderer Orientierungen.
 m)  Der Anteil von Dachflächenfenstern, Lichtkuppeln und ähnlichen transparenten Bauteilen im
 Dachbereich darf nicht mehr als 6 Prozent der Dachfläche betragen.
-```
-n)  Die Gesamtfläche aller Außentüren (^6) darf bei Ein- und Zweifamilienhäusern 2,7 Prozent, ansonsten
-1,5 Prozent der beheizten Bruttogrundfläche des Gebäudes nicht überschreiten.
+n) 
+Die Gesamtfläche aller Außentüren
 
+### 6
+
+```
+darf bei Ein- und Zweifamilienhäusern 2,7 Prozent, ansonsten
+1,5 Prozent der beheizten Bruttogrundfläche des Gebäudes nicht überschreiten.
+```
 **2. Bauteilanforderungen**
 
 ```
 Folgende Anforderungen an die jeweiligen einzelnen Bauteile der thermischen Gebäudehülle müssen
 eingehalten werden:
 •  Dachflächen, oberste Geschossdecke, Dachgauben:
-U ≤ 0,14 W/(m
+U ≤ 0,14 W/(m^2 K)
+•  Fenster und sonstige transparente Bauteile:
+Uw ≤ 0,90 W/(m
 ```
 ### 2
 
 ### K)
 
-```
-•  Fenster und sonstige transparente Bauteile:
-Uw ≤ 0,90 W/(m^2 K)
-```
 ```
 •  Dachflächenfenster:
-Uw ≤ 1,0 W/(m^2 K)
-```
-```
-•  Außenwände, Geschossdecken nach unten gegen Außenluft:
-U ≤ 0,20 W/(m
+Uw ≤ 1,0 W/(m
 ```
 ### 2
 
 ### K)
 
 ```
+•  Außenwände, Geschossdecken nach unten gegen Außenluft:
+U ≤ 0,20 W/(m^2 K)
 •  Sonstige opake Bauteile (Kellerdecken, Wände und Decken zu unbeheizten Räumen, Wand- und
 Bodenflächen gegen Erdreich, etc.):
 U ≤ 0,25 W/(m^2 K)
 •  Türen (Keller- und Außentüren)
-UD ≤ 1,2 W/(m^2 K)
+UD ≤ 1,2 W/(m
 ```
+### 2
+
+### K)
+
 ```
 •  Lichtkuppeln und ähnliche Bauteile:
 U ≤ 1,5 W/(m² K)
 •  Spezielle Fenstertüren (mit Klapp-, Falt-, Schiebe- oder Hebemechanismus):
+```
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
 UW ≤ 1,4 W/(m
 ```
 ### 2
@@ -5413,18 +5322,8 @@ UW ≤ 1,4 W/(m
 
 ```
 •  Vermeidung von Wärmebrücken:
+ΔUWB ≤ 0,035 W/(m^2 K).
 ```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-ΔUWB ≤ 0,035 W/(m
-```
-### 2
-
-### K).
-
 ```
 Die Anforderungen sind über die gesamte Fläche des jeweiligen Bauteils einzuhalten. Zudem müssen
 die Anforderungen an die Ausführung von Wärmebrücken sowie an die Luftdichtheit der Gebäudehülle
@@ -5461,12 +5360,7 @@ Anforderung an den Einbau einer Lüftungsanlage besteht dabei an das Gebäude. B
 wohnungszentraler Anlagen in ein Mehrfamilienhaus sind Anlagen mindestens in jede einzelne Wohnung
 einzubauen. Die jeweiligen Anforderungen an den Wärmebereitstellungsgrad werden für Lüftungsanlagen
 mit Wärmerückgewinnung gleichwertig erfüllt, wenn die zentrale Lüftungsanlage einen spezifischen
-Energieverbrauch von SEV < – 26 kWh/(m
-```
-### 2
-
-```
-a) gemäß der Definition des SEV nach Anhang 1 Nummer 1 der
+Energieverbrauch von SEV < – 26 kWh/(m^2 a) gemäß der Definition des SEV nach Anhang 1 Nummer 1 der
 Verordnung (EU) Nr. 1253/2014 der Kommission vom 7. Juli 2014 zur Durchführung der Richtlinie 2009/125/
 EG des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die umweltgerechte
 Gestaltung von Lüftungsanlagen (ABl. L 337 vom 25.11.2014, S. 8) aufweist.
@@ -5485,15 +5379,15 @@ Der Fensterflächenanteil ist der Quotient aus Fensterfläche und der Summe aus 
 Außenwand-/Fassadenfläche. Die Fensterfläche ist einschließlich Fenstertüren und spezieller Fenstertüren
 zu ermitteln; spezielle Fenstertüren sind barrierefreie Fenstertüren gemäß DIN 18040-2: 2011-09 sowie
 Schiebe-, Hebe-Schiebe-, Falt- und Faltschiebetüren.
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
 5
 Fenster sind in nördliche Richtungen orientiert, wenn die Senkrechte auf die Fensterfläche nicht mehr als
 22,5 Grad von der Nordrichtung abweicht.
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
 6
 Öffnungsmaße von Fenstern und Türen werden gemäß DIN V 18599-1: 2018-09 mit den lichten
 Rohbaumaßen innen ermittelt.
@@ -5557,25 +5451,24 @@ Quadratmeter Nettogrundfläche
 mit der Hauptnutzung Gewerbe
 ```
 ```
-Gewerbliche und industrielle
-Hallen – leichte Arbeit,
-überwiegend sitzende Tätigkeit
+Gewerbliche und industrielle Hallen
+```
+- leichte Arbeit, überwiegend
+sitzende Tätigkeit
+
+```
+1,5 kWh je Beschäftigten
+und Tag
 ```
 ```
-1,5 kWh je
-Beschäftigten und Tag
+6 Schule, Kindergarten und -
+tagesstätte, ähnliche Einrichtungen
+mit der Hauptnutzung
+Klassenzimmer, Gruppenraum
 ```
 ```
-6 Schule, Kindergarten und
--tagesstätte, ähnliche
-Einrichtungen mit der
-Hauptnutzung Klassenzimmer,
-Gruppenraum
-```
-```
-Klassenzimmer/Gruppenraum Ohne Duschen: 65 Wh
-je Quadratmeter und
-Tag,
+Klassenzimmer/Gruppenraum Ohne Duschen: 65 Wh je
+Quadratmeter und Tag,
 200 Nutzungstage
 ```
 ```
@@ -5591,9 +5484,9 @@ Wellnessbereich mit
 der Hauptnutzung Hotelzimmer
 ```
 ```
-Hotelzimmer 250 Wh je
-Quadratmeter und Tag,
-365 Nutzungstage
+Hotelzimmer 250 Wh je Quadratmeter
+und Tag, 365
+Nutzungstage
 ```
 ```
 9 Bibliothek mit der Hauptnutzung
@@ -5611,7 +5504,7 @@ a zu berechnen.
 
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 **Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an bestehenden
 Gebäuden**
@@ -5622,26 +5515,19 @@ Gebäuden**
 Wohngebäude
 und Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
+mit Raum-Solltemperatur
 ≥ 19 °C
 ```
 ```
 Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
-von 12 bis < 19 °C
-```
-```
-Nummer
+mit Raum-Solltemperatur
+Nummer von 12 bis < 19 °C
 ```
 ```
 Erneuerung,
 Ersatz oder erstmaliger
 Einbau von Außenbauteilen
-```
-```
 Höchstwerte der
 Wärmedurchgangskoeffizienten Umax
 ```
@@ -5667,9 +5553,8 @@ Außenwände:
 - Anbringen von Bekleidungen
     (Platten oder plattenartige Bauteile),
     Verschalungen, Mauervorsatzschalen
-    oder Dämmschichten auf der
-    Außenseite einer bestehenden Wand
-    oder
+    oder Dämmschichten auf der Außenseite
+    einer bestehenden Wand oder
 
 ```
 1b1,2
@@ -5738,8 +5623,8 @@ Ug = 1,1 W/(m^2 •K) Keine Anforderung
 ```
 ```
 Vorhangfassaden in Pfosten-Riegel-
-Konstruktion, deren Bauart DIN EN ISO
-12631: 2018-01 entspricht:
+Konstruktion, deren Bauart DIN EN ISO 12631:
+2018-01 entspricht:
 ```
 ```
 2d
@@ -5760,8 +5645,15 @@ Uc = 1,5 W/(m
 ### •K)
 
 ```
+Gegen Außenluft abgrenzende Glasdächer:
 2e
-3 Gegen Außenluft abgrenzende Glasdächer:
+```
+### 3
+
+- Ersatz oder erstmaliger Einbau des
+    gesamten Bauteils oder
+
+```
 Uw/Ug = 2,0 W/(m
 ```
 ### 2
@@ -5775,36 +5667,27 @@ Uw/Ug = 2,0 W/(m
 
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
 Wohngebäude
 und Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
+mit Raum-Solltemperatur
 ≥ 19 °C
-```
 ```
 Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
-von 12 bis < 19 °C
-```
-Nummer
+mit Raum-Solltemperatur
+Nummer von 12 bis < 19 °C
 
 ```
 Erneuerung,
 Ersatz oder erstmaliger
 Einbau von Außenbauteilen
-```
-```
 Höchstwerte der
 Wärmedurchgangskoeffizienten Umax
 ```
-- Ersatz oder erstmaliger Einbau des
-    gesamten Bauteils oder
 - Ersatz der Verglasung oder verglaster
     Flügelrahmen
 Gegen Außenluft abgrenzende Fenstertüren
@@ -5818,17 +5701,8 @@ Hebemechanismus:
     gesamten Bauteils
 
 ```
-Uw = 1,6 W/(m
+Uw = 1,6 W/(m^2 •K) Uw = 1,9 W/(m^2 •K)
 ```
-### 2
-
-```
-•K) Uw = 1,9 W/(m
-```
-### 2
-
-### •K)
-
 ```
 Gegen Außenluft abgrenzende Fenster,
 Fenstertüren und Dachflächenfenster mit
@@ -5838,25 +5712,14 @@ Sonderverglasung:
     gesamten Bauteils oder
 
 ```
-3a
+3a^4
 ```
-### 4
-
 - Einbau zusätzlicher Vor- oder
     Innenfenster
 
 ```
-Uw/Ug = 2,0 W/(m
+Uw/Ug = 2,0 W/(m^2 •K) Uw/Ug = 2,8 W/(m^2 •K)
 ```
-### 2
-
-```
-•K) Uw/Ug = 2,8 W/(m
-```
-### 2
-
-### •K)
-
 ```
 Gegen Außenluft abgrenzende Fenster,
 Fenstertüren und Dachflächenfenster mit
@@ -5873,9 +5736,8 @@ Ug = 1,6 W/(m^2 •K) Keine Anforderung
 ```
 ```
 Vorhangfassaden in Pfosten-Riegel-
-Konstruktion, deren Bauart DIN EN
-ISO 12631: 2018-01 entspricht, mit
-Sonderverglasung:
+Konstruktion, deren Bauart DIN EN ISO 12631:
+2018-01 entspricht, mit Sonderverglasung:
 ```
 ```
 3c3,4
@@ -5892,23 +5754,11 @@ Türanlagen aus Glas, Karusselltüren und
 kraftbetätigte Türen)
 ```
 ```
-U = 1,8 W/(m
-```
-### 2
-
-### •K)
-
-```
+U = 1,8 W/(m^2 •K)
 (Türfläche)
 ```
 ```
-U = 1,8 W/(m
-```
-### 2
-
-### •K)
-
-```
+U = 1,8 W/(m^2 •K)
 (Türfläche)
 ```
 ```
@@ -5916,9 +5766,9 @@ Bauteilgruppe:
 Dachflächen sowie Decken und Wände gegen unbeheizte Dachräume
 Gegen Außenluft abgrenzende Dachflächen
 einschließlich Dachgauben sowie gegen
-unbeheizte Dachräume abgrenzende
-Decken (oberste Geschossdecken) und
-Wände (einschließlich Abseitenwände):
+unbeheizte Dachräume abgrenzende Decken
+(oberste Geschossdecken) und Wände
+(einschließlich Abseitenwände):
 ```
 - Ersatz oder
 - erstmaliger Einbau
@@ -5933,64 +5783,69 @@ Anzuwenden nur auf opake Bauteile
 U = 0,24 W/(m^2 •K) U = 0,35 W/(m^2 •K)
 ```
 ```
-5b1,5 Gegen Außenluft abgrenzende Dachflächen
+Gegen Außenluft abgrenzende Dachflächen
 einschließlich Dachgauben sowie gegen
-unbeheizte Dachräume abgrenzende
+unbeheizte Dachräume abgrenzende Decken
+(oberste Geschossdecken) und Wände
+(einschließlich Abseitenwände):
 ```
 ```
-U = 0,24 W/(m^2 •K) U = 0,35 W/(m^2 •K)
+5b
 ```
+### 1,5
+
+- Ersatz oder Neuaufbau einer
+    Dachdeckung einschließlich der darunter
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+U = 0,24 W/(m
+```
+### 2
+
+```
+•K) U = 0,35 W/(m
+```
+### 2
+
+### •K)
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
 Wohngebäude
 und Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
+mit Raum-Solltemperatur
 ≥ 19 °C
-```
 ```
 Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
-von 12 bis < 19 °C
-```
-Nummer
+mit Raum-Solltemperatur
+Nummer von 12 bis < 19 °C
 
 ```
 Erneuerung,
 Ersatz oder erstmaliger
 Einbau von Außenbauteilen
-```
-```
 Höchstwerte der
 Wärmedurchgangskoeffizienten Umax
-Decken (oberste Geschossdecken) und
-Wände (einschließlich Abseitenwände):
+liegenden Lattungen und Verschalungen
+oder
 ```
-- Ersatz oder Neuaufbau einer
-    Dachdeckung einschließlich der
-    darunter liegenden Lattungen und
-    Verschalungen oder
 - Aufbringen oder Erneuerung von
     Bekleidungen oder Verschalungen oder
     Einbau von Dämmschichten auf der
     kalten Seite von Wänden oder
 - Aufbringen oder Erneuerung von
-    Bekleidungen oder Verschalungen
-    oder Einbau von Dämmschichten
-    auf der kalten Seite von obersten
+    Bekleidungen oder Verschalungen oder
+    Einbau von Dämmschichten auf
+    der kalten Seite von obersten
     Geschossdecken
 Anzuwenden nur auf opake Bauteile
-
-```
 Gegen Außenluft abgrenzende Dachflächen
 mit Abdichtung:
-```
 - Ersatz einer Abdichtung, die flächig das
     Gebäude wasserdicht abdichtet, durch
     eine neue Schicht gleicher Funktion (bei
@@ -6010,40 +5865,30 @@ U = 0,20 W/(m^2 •K) U = 0,35 W/(m^2 •K)
 Bauteilgruppe:
 Wände gegen Erdreich oder unbeheizte Räume (mit Ausnahme von Dachräumen)
 sowie Decken nach unten gegen Erdreich, Außenluft oder unbeheizte Räume
+```
+```
 Wände, die an Erdreich oder an unbeheizte
 Räume (mit Ausnahme von Dachräumen)
 grenzen, und Decken, die beheizte Räume
-nach unten zum Erdreich oder zu
-unbeheizten Räumen abgrenzen:
+nach unten zum Erdreich oder zu unbeheizten
+Räumen abgrenzen:
 ```
 - Ersatz oder
 
 ```
-6a
+6a^1
 ```
-### 1
-
 - erstmaliger Einbau
 
 ```
-U = 0,30 W/(m
-```
-### 2
-
-### •K)
-
-```
-Keine Anforderung
+U = 0,30 W/(m^2 •K) Keine Anforderung
 ```
 ```
 Wände, die an Erdreich oder an unbeheizte
 Räume (mit Ausnahme von Dachräumen)
 grenzen, und Decken, die beheizte Räume
-nach unten zum Erdreich oder zu
-unbeheizten Räumen abgrenzen:
-```
-```
-6b1,5
+nach unten zum Erdreich oder zu unbeheizten
+Räumen abgrenzen:
 ```
 - Anbringen oder Erneuern von
     außenseitigen Bekleidungen oder
@@ -6051,58 +5896,57 @@ unbeheizten Räumen abgrenzen:
     oder Drainagen oder
 
 ```
+6b1,5
+```
+- Anbringen von Deckenbekleidungen auf
+    der Kaltseite
+
+```
 U = 0,30 W/(m^2 •K) Keine Anforderung
+```
+```
+6c
+1,5 Decken, die beheizte Räume nach unten zum
+Erdreich, zur Außenluft oder zu unbeheizten
+Räumen abgrenzen:
+```
+```
+U = 0,50 W/(m
+```
+### 2
+
+```
+•K) Keine Anforderung
 ```
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
 Wohngebäude
 und Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
+mit Raum-Solltemperatur
 ≥ 19 °C
 ```
 ```
 Zonen von
 Nichtwohngebäuden
-mit Raum-
-Solltemperatur
-von 12 bis < 19 °C
+mit Raum-Solltemperatur
+Nummer von 12 bis < 19 °C
 ```
-Nummer
-
 ```
 Erneuerung,
 Ersatz oder erstmaliger
 Einbau von Außenbauteilen
-```
-```
 Höchstwerte der
 Wärmedurchgangskoeffizienten Umax
-```
-- Anbringen von Deckenbekleidungen auf
-    der Kaltseite
-Decken, die beheizte Räume nach unten
-zum Erdreich, zur Außenluft oder zu
-unbeheizten Räumen abgrenzen:
-
-```
-6c1,5
 ```
 - Aufbau oder Erneuerung von
     Fußbodenaufbauten auf der beheizten
     Seite
-
-```
-U = 0,50 W/(m^2 •K) Keine Anforderung
-```
-```
 Decken, die beheizte Räume nach unten zur
 Außenluft abgrenzen:
-```
 - Ersatz oder
 
 ```
@@ -6123,83 +5967,84 @@ Außenluft abgrenzen,
     oder Drainagen oder
 
 ```
-6e1,5
+6e
 ```
+### 1,5
+
 - Anbringen von Deckenbekleidungen auf
     der Kaltseite
 
 ```
-U = 0,24 W/(m^2 •K) U = 0,35 W/(m^2 •K)
+U = 0,24 W/(m
 ```
+### 2
+
 ```
+•K) U = 0,35 W/(m
+```
+### 2
+
+### •K)
+
 1
 Werden Maßnahmen nach den Nummern 1a, 1b, 5a, 5b, 5c, 6a, 6b, 6c, 6d oder 6e ausgeführt
 und ist die Dämmschichtdicke im Rahmen dieser Maßnahmen aus technischen Gründen begrenzt, so
 gelten die Anforderungen als erfüllt, wenn die nach anerkannten Regeln der Technik höchstmögliche
 Dämmschichtdicke eingebaut wird, wobei ein Bemessungswert der Wärmeleitfähigkeit von λ = 0,035 W/
-(m•K) einzuhalten ist. Abweichend von Satz 1 ist ein Bemessungswert der Wärmeleitfähigkeit von λ =
-0,045 W/(m•K) einzuhalten, soweit Dämmmaterialien in Hohlräume eingeblasen oder Dämmmaterialien
-aus nachwachsenden Rohstoffen verwendet werden. Wird bei Maßnahmen nach Nummer 5b eine
-Dachdeckung einschließlich darunter liegender Lattungen und Verschalungen ersetzt oder neu aufgebaut,
-sind die Sätze 1 und 2 entsprechend anzuwenden, wenn der Wärmeschutz als Zwischensparrendämmung
-ausgeführt wird und die Dämmschichtdicke wegen einer innenseitigen Bekleidung oder der Sparrenhöhe
-begrenzt ist. Die Sätze 1 bis 3 sind bei Maßnahmen nach den Nummern 5a, 5b, und 5c nur auf opake
-Bauteile anzuwenden.
+(m•K) einzuhalten ist. Abweichend von Satz 1 ist ein Bemessungswert der Wärmeleitfähigkeit von λ = 0,045
+W/(m•K) einzuhalten, soweit Dämmmaterialien in Hohlräume eingeblasen oder Dämmmaterialien aus
+nachwachsenden Rohstoffen verwendet werden. Wird bei Maßnahmen nach Nummer 5b eine Dachdeckung
+einschließlich darunter liegender Lattungen und Verschalungen ersetzt oder neu aufgebaut, sind die Sätze
+1 und 2 entsprechend anzuwenden, wenn der Wärmeschutz als Zwischensparrendämmung ausgeführt wird
+und die Dämmschichtdicke wegen einer innenseitigen Bekleidung oder der Sparrenhöhe begrenzt ist. Die
+Sätze 1 bis 3 sind bei Maßnahmen nach den Nummern 5a, 5b, und 5c nur auf opake Bauteile anzuwenden.
+
 2
 Werden Maßnahmen nach Nummer 1b ausgeführt, müssen die dort genannten Anforderungen
 nicht eingehalten werden, wenn die Außenwand nach dem 31. Dezember 1983 unter Einhaltung
 energiesparrechtlicher Vorschriften errichtet oder erneuert worden ist.
+
 3
 Bei Ersatz der Verglasung oder verglaster Flügelrahmen gelten die Anforderungen nach den Nummern
 2c, 2e und 3c nicht, wenn der vorhandene Rahmen zur Aufnahme der vorgeschriebenen Verglasung
 ungeeignet ist. Werden bei Maßnahmen nach Nummer 2c oder bei Maßnahmen nach Nummer 2e
-Verglasungen oder verglaste Flügelrahmen ersetzt und ist die Glasdicke im Rahmen dieser Maßnahmen
-aus technischen Gründen begrenzt, so gelten die Anforderungen als erfüllt, wenn eine Verglasung mit
-einem Wärmedurchgangskoeffizienten von höchstens 1,3 W/(m^2 •K) eingebaut wird. Werden Maßnahmen
-nach Nummer 2c an Kasten- oder Verbundfenstern durchgeführt, so gelten die Anforderungen als
-erfüllt, wenn eine Glastafel mit einer infrarot-reflektierenden Beschichtung mit einer Emissivität εn ≤ 0,2
-eingebaut wird.
-```
+Verglasungen oder verglaste Flügelrahmen ersetzt und ist die Glasdicke im Rahmen dieser Maßnahmen aus
+technischen Gründen begrenzt, so gelten die Anforderungen als erfüllt, wenn eine Verglasung mit einem
+Wärmedurchgangskoeffizienten von höchstens 1,3 W/(m^2 •K) eingebaut wird. Werden Maßnahmen nach
+Nummer 2c an Kasten- oder Verbundfenstern durchgeführt, so gelten die Anforderungen als erfüllt, wenn
+eine Glastafel mit einer infrarot-reflektierenden Beschichtung mit einer Emissivität εn ≤ 0,2 eingebaut wird.
 
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-Wohngebäude
-und Zonen von
-Nichtwohngebäuden
-mit Raum-
-Solltemperatur
-≥ 19 °C
-```
-```
-Zonen von
-Nichtwohngebäuden
-mit Raum-
-Solltemperatur
-von 12 bis < 19 °C
-```
-```
-Nummer
-```
-```
-Erneuerung,
-Ersatz oder erstmaliger
-Einbau von Außenbauteilen
-```
-```
-Höchstwerte der
-Wärmedurchgangskoeffizienten Umax
-4
-Sonderverglasungen im Sinne der Nummern 3a, 3b und 3c sind
+(^4) Sonderverglasungen im Sinne der Nummern 3a, 3b und 3c sind
 –  Schallschutzverglasungen mit einem bewerteten Schalldämmmaß der Verglasung von Rw,R ≥ 40
 dB nach DIN EN ISO 717-1: 2013-06 oder einer vergleichbaren Anforderung,
 –  Isolierglas-Sonderaufbauten zur Durchschusshemmung, Durchbruchhemmung oder
 Sprengwirkungshemmung nach anerkannten Regeln der Technik oder
 –  Isolierglas-Sonderaufbauten als Brandschutzglas mit einer Einzelelementdicke von mindestens 18
 mm nach DIN 4102-13: 1990-05 oder einer vergleichbaren Anforderung.
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
+Wohngebäude
+und Zonen von
+Nichtwohngebäuden
+mit Raum-Solltemperatur
+≥ 19 °C
+```
+```
+Zonen von
+Nichtwohngebäuden
+mit Raum-Solltemperatur
+Nummer von 12 bis < 19 °C
+```
+```
+Erneuerung,
+Ersatz oder erstmaliger
+Einbau von Außenbauteilen
+Höchstwerte der
+Wärmedurchgangskoeffizienten Umax
 5
 Werden Maßnahmen nach den Nummern 5b, 5c, 6b, 6c oder 6e ausgeführt, müssen die dort genannten
 Anforderungen nicht eingehalten werden, wenn die Bauteilfläche nach dem 31. Dezember 1983 unter
@@ -6240,20 +6085,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
           von 0,035 Watt pro Meter und Kelvin, 6 Millimeter.
        hh)   Soweit in den Fällen des § 69 Absatz 1 Wärmeverteilungs- und Warmwasserleitungen
           an Außenluft grenzen, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, das Zweifache des jeweiligen
-Wertes nach den Doppelbuchstaben aa bis dd.
+          Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, das Zweifache des jeweiligen
+          Wertes nach den Doppelbuchstaben aa bis dd.
 Die Wärmeleitfähigkeiten der Wärmedämmung sind jeweils auf eine Mitteltemperatur von 40 Grad
 Celsius zu beziehen.
-b)   In den Fällen des § 69 Absatz 1 ist Buchstabe a nicht anzuwenden, soweit sich
-Wärmeverteilungsleitungen nach Buchstabe a Doppelbuchstabe aa bis dd in beheizten Räumen
-oder in Bauteilen zwischen beheizten Räumen eines Nutzers befinden und ihre Wärmeabgabe
-durch frei liegende Absperreinrichtungen beeinflusst werden kann.
+    b)   In den Fällen des § 69 Absatz 1 ist Buchstabe a nicht anzuwenden, soweit sich
+       Wärmeverteilungsleitungen nach Buchstabe a Doppelbuchstabe aa bis dd in beheizten Räumen
+       oder in Bauteilen zwischen beheizten Räumen eines Nutzers befinden und ihre Wärmeabgabe
+       durch frei liegende Absperreinrichtungen beeinflusst werden kann.
+
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
 c)   In Fällen des § 69 Absatz 1 ist Buchstabe a nicht anzuwenden auf Warmwasserleitungen bis zu
 einem Wasserinhalt von 3 Litern, die weder in den Zirkulationskreislauf einbezogen noch mit
 elektrischer Begleitheizung ausgestattet sind (Stichleitungen) und sich in beheizten Räumen
@@ -6308,12 +6153,6 @@ Voraussetzungen des § 22 Absatz 1 Nummer 1 oder Nummer 2 erfüllt sind.
 b)  Wird Wärme aus einer gebäudeintegrierten oder gebäudenahen Kraft-Wärme-Kopplungsanlage
 bezogen, ist der Emissionsfaktor nach DIN V 18599-9: 2018-09 unter sinngemäßer Anwendung der
 einschlägigen Regelungen in DIN V 18599-1: 2018-09 Anhang A Abschnitt A.4 zu bestimmen und
-```
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
 jeweils mit dem nach § 20 oder nach § 21 ermittelten, durch die Kraft-Wärme-Kopplungsanlage
 gedeckten endenergetischen Bedarfswert des Gebäudes zu multiplizieren.
 c)  Wird Fernwärme oder -kälte zur Deckung des Endenergiebedarfs (Wärme, Kälte) eingesetzt, die ganz
@@ -6322,6 +6161,12 @@ einen Emissionsfaktor auf der Grundlage der DIN V 18599-1: 2018-09 Anhang A Absc
 unter Verwendung der Emissionsfaktoren nach Nummer 3 ermittelt und veröffentlicht, ist dieser
 Emissionsfaktor zu verwenden und mit dem nach § 20 oder nach § 21 ermittelten endenergetischen
 Bedarfswert des Gebäudes zu multiplizieren.
+```
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
 d)  Wird Fernwärme oder -kälte zur Deckung des Endenergiebedarfs (Wärme, Kälte) eingesetzt,
 die ganz oder teilweise aus Kraft-Wärme-Kopplungsanlagen stammt, und hat der Betreiber des
 Versorgungsnetzes keinen Emissionsfaktor ermittelt und veröffentlicht, ist der auf die für die
@@ -6385,14 +6230,36 @@ Biogene Brennstoffe
 ```
 Holz  20
 12 netzbezogen 560
-13 Strom gebäudenah erzeugt (aus
-Photovoltaik oder Windkraft)
+13 gebäudenah erzeugt (aus Photovoltaik
+oder Windkraft)
 ```
 ###   0
 
+### 14
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+Strom
+```
+```
+Verdrängungsstrommix 860
+15 Erdwärme, Geothermie, Solarthermie,
+Umgebungswärme
+```
+###   0
+
+```
+16 Erdkälte, Umgebungskälte   0
+17
+```
+```
+Wärme, Kälte
+```
+```
+Abwärme aus Prozessen  40
+```
+
+```
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
 Nummer Kategorie Energieträger
@@ -6401,50 +6268,35 @@ Nummer Kategorie Energieträger
 Emissionsfaktor
 [g CO 2 -Äquivalent
 pro kWh]
-14 Verdrängungsstrommix 860
-```
-```
-15 Erdwärme, Geothermie,
-Solarthermie, Umgebungswärme
-```
-###   0
-
-```
-16 Erdkälte, Umgebungskälte   0
-17 Abwärme aus Prozessen  40
 18 Wärme aus KWK, gebäudeintegriert
 oder gebäudenah
 ```
 ```
 nach DIN V
 18599-9: 2018-09
-19
 ```
 ```
-Wärme, Kälte
-```
-```
-Wärme aus Verbrennung von
+19 Wärme aus Verbrennung von
 Siedlungsabfällen (unter pauschaler
-Berücksichtigung von Hilfsenergie
-und Stützfeuerung)
+Berücksichtigung von Hilfsenergie und
+Stützfeuerung)
 ```
 ###  20
 
 ```
 20 Brennstoff: Stein-/Braunkohle 300
-```
-```
 21 Gasförmige und flüssige Brennstoffe 180
 22
 ```
 ```
-Nah-/Fernwärme aus KWK
-mit Deckungsanteil der KWK
-an der Wärmeerzeugung von
+Nah-/Fernwärme aus KWK mit
+Deckungsanteil der KWK an
+der Wärmeerzeugung von
 mindestens 70 Prozent Erneuerbarer Brennstoff  40
 23 Brennstoff: Stein-/Braunkohle 400
 24 Gasförmige und flüssige Brennstoffe 300
+```
+```
 25
 ```
 ```
@@ -6464,16 +6316,14 @@ Energieeffizienzklasse
 Endenergie
 [Kilowattstunden pro
 Quadratmeter Gebäudenutzfläche und Jahr]
-```
-```
 A+ ≤ 30
 A ≤ 50
 B ≤ 75
 C ≤ 100
+```
+```
 D ≤ 130
 E ≤ 160
-```
-```
 F ≤ 200
 G ≤ 250
 H > 250
@@ -6488,22 +6338,19 @@ Energieausweisen**
     **Die nach § 88 Absatz 2 Nummer 2 verlangte Schulung soll die Aussteller von Energieausweisen**
     **in die Lage versetzen, bei der Ausstellung solcher Energieausweise die Vorschriften dieses**
     **Gesetzes einschließlich des technischen Regelwerks zum energiesparenden Bauen sachgemäß**
-
-
-```
-Justiz ‒ http://www.gesetze-im-internet.de
-```
-```
-anzuwenden. Die Schulung soll praktische Übungen einschließen und insbesondere die im
-Folgenden genannten Fachkenntnisse vermitteln.
-```
+    **anzuwenden. Die Schulung soll praktische Übungen einschließen und insbesondere die im**
+    **Folgenden genannten Fachkenntnisse vermitteln.**
 2.  **Inhaltliche Schwerpunkte der Schulung zu Wohngebäuden**
+    **a) ** Bestandsaufnahme und Dokumentation des Gebäudes, der Baukonstruktion und der technischen
+       Anlagen
+       Ermittlung, Bewertung und Dokumentation des Einflusses der geometrischen und energetischen
+       Kennwerte der Gebäudehülle einschließlich aller Einbauteile und Wärmebrücken, der
+
 
 ```
-a)  Bestandsaufnahme und Dokumentation des Gebäudes, der Baukonstruktion und der technischen
-Anlagen
-Ermittlung, Bewertung und Dokumentation des Einflusses der geometrischen und energetischen
-Kennwerte der Gebäudehülle einschließlich aller Einbauteile und Wärmebrücken, der
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
+```
+```
 Luftdichtheit und Erkennen von Leckagen, der bauphysikalischen Eigenschaften von Baustoffen
 und Bauprodukten einschließlich der damit verbundenen konstruktiv-statischen Aspekte,
 der energetischen Kennwerte von anlagentechnischen Komponenten einschließlich deren
@@ -6555,19 +6402,19 @@ Verbesserungen der energetischen Eigenschaften.
 3.  **Inhaltliche Schwerpunkte der Schulung zu Nichtwohngebäuden**
     **Zusätzlich zu den unter Nummer 2 aufgeführten Schwerpunkten soll die Schulung insbesondere**
     **die nachfolgenden Fachkenntnisse zu Nichtwohngebäuden vermitteln:**
+       **a) ** Bestandsaufnahme und Dokumentation des Gebäudes, der Baukonstruktion und der technischen
+          Anlagen
+          Energetische Modellierung eines Gebäudes – hierzu gehören beheiztes oder gekühltes Volumen,
+          konditionierte oder nicht konditionierte Räume, Versorgungsbereich der Anlagentechnik –,
+          Ermittlung der Systemgrenze und Einteilung des Gebäudes in Zonen nach entsprechenden
+          Nutzungsrandbedingungen, Zuordnung von geometrischen und energetischen Kenngrößen zu
+          den Zonen und Versorgungsbereichen, Zusammenwirken von Gebäude und Anlagentechnik mit
 
 
 ```
-Justiz ‒ http://www.gesetze-im-internet.de
+sowie des Bundesamts für Justiz ‒ http://www.gesetze-im-internet.de
 ```
 ```
-a)  Bestandsaufnahme und Dokumentation des Gebäudes, der Baukonstruktion und der technischen
-Anlagen
-Energetische Modellierung eines Gebäudes – hierzu gehören beheiztes oder gekühltes Volumen,
-konditionierte oder nicht konditionierte Räume, Versorgungsbereich der Anlagentechnik –,
-Ermittlung der Systemgrenze und Einteilung des Gebäudes in Zonen nach entsprechenden
-Nutzungsrandbedingungen, Zuordnung von geometrischen und energetischen Kenngrößen zu
-den Zonen und Versorgungsbereichen, Zusammenwirken von Gebäude und Anlagentechnik mit
 Verrechnung von Bilanzanteilen, Anwendung vereinfachter Verfahren, zum Beispiel die Anwendung
 des Ein-Zonen-Modells, Bestimmung von Wärmequellen und -senken und des Nutzenergiebedarfs
 von Zonen, Ermittlung, Bewertung und Dokumentation der energetischen Kennwerte von
