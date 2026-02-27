@@ -11,6 +11,6 @@ Es enthält die GEG.md im Markdown-Format mit 3 Commits:
 
 Die Gesetzestexte sind aus den XML-Versionen, die auf der Seite https://www.gesetze-im-internet.de/geg/ zu finden sind, sowie die archivierten Versionen im Web Archiv (web.archive.org), im Einzelnen:
 
-Die Texte wurden mit dem Pyhton-Script lawdown.md (https://github.com/bundestag/gesetze-tools/blob/master/lawdown.py) ins Markdown-Format konvertiert.
+Die Texte wurden mit dem Python-Script lawdown.md (https://github.com/bundestag/gesetze-tools/blob/master/lawdown.py) ins Markdown-Format konvertiert.
 
 Hinweis: Die Repo ist noch WIP und kann eventuell fehlerhafte Formatierungen enthalten.
