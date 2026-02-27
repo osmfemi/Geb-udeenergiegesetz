@@ -13,4 +13,4 @@ Die Gesetzestexte sind aus den XML-Versionen, die auf der Seite https://www.gese
 
 Die Texte wurden mit dem Python-Script lawdown.md (https://github.com/bundestag/gesetze-tools/blob/master/lawdown.py) ins Markdown-Format konvertiert.
 
-Hinweis: Die Repo ist noch WIP und kann eventuell fehlerhafte Formatierungen enthalten.
+Hinweis: Dieses Repository ist noch WIP und kann eventuell fehlerhafte Formatierungen enthalten.
