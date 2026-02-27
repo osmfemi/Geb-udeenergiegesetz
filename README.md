@@ -11,6 +11,6 @@ Zum Vergleich der Änderungen einfach die Commit-History verwenden und die einze
 
 Die Gesetzestexte stammen aus den XML-Versionen, die auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de/geg/) verfügbar sind, sowie aus archivierten Versionen im Web-Archiv unter [web.archive.org](https://web.archive.org/web/https://www.gesetze-im-internet.de/geg/).
 
-Die Konvertierung in Markdown erfolgte mit dem Python-Skript lawdown.py aus dem GitHub-Repository [gesetze-tools](https://github.com/bundestag/gesetze-tools).
+Die Konvertierung in Markdown erfolgte mit dem Python-Skript lawdown.py, einer modifizierten Version des Original-Skripts aus dem GitHub-Repository [gesetze-tools](https://github.com/bundestag/gesetze-tools).
 
 **Hinweis:** Dieses Repository ist noch Work-in-Progress (WIP) und kann eventuell fehlerhafte Formatierungen enthalten.
