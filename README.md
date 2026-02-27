@@ -1,16 +1,16 @@
-## Gebäudeenergiegesetz
+## Gebäudeenergiegesetz (GEG)
 
-Dieses Repository dient zum einfachen Vergleich der Änderungen des Gebäudeenergiegesetzes in den Jahren 2021, 2024 und 2026 mithilfe der Commit-History.
+Dieses Repository dient dem einfachen Vergleich der Änderungen des Gebäudeenergiegesetzes (GEG) in den Jahren 2021, 2024 und 2026 mithilfe der Commit-History.
 
-Es enthält die GEG.md im Markdown-Format mit 3 Commits:
-- GEG vom Stand 2021 (Schwarz-Rot)
-- GEG vom Stand 2024 (Ampel)
-- GEG vom Stand 2026 (Schwarz-Rot)
+Es enthält die Datei `GEG.md` im Markdown-Format mit drei Versionen:
+- GEG 2021 (Schwarz-Rot)
+- GEG 2024 (Ampel)
+- GEG 2026 (Schwarz-Rot)
 
-- Zum Vergleich der Änderungen des GEGs einfach die Commit-History verwenden und die einzelnen Änderungen vergleichen.
+Zum Vergleich der Änderungen einfach die Commit-History verwenden und die einzelnen Änderungen zwischen den Versionen ansehen.
 
-Die Gesetzestexte sind aus den XML-Versionen, die auf der Seite https://www.gesetze-im-internet.de/geg/ zu finden sind, sowie die archivierten Versionen im Web-Archiv (web.archive.org)
+Die Gesetzestexte stammen aus den XML-Versionen, die auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de/geg/) verfügbar sind, sowie aus archivierten Versionen im Web-Archiv unter [web.archive.org](https://web.archive.org/web/https://www.gesetze-im-internet.de/geg/).
 
-Die Texte wurden mit dem Python-Script lawdown.md (https://github.com/bundestag/gesetze-tools/blob/master/lawdown.py) ins Markdown-Format konvertiert.
+Die Konvertierung in Markdown erfolgte mit dem Python-Skript lawdown.py aus dem GitHub-Repository [gesetze-tools](https://github.com/bundestag/gesetze-tools).
 
-Hinweis: Dieses Repository ist noch WIP und kann eventuell fehlerhafte Formatierungen enthalten.
+**Hinweis:** Dieses Repository ist noch Work-in-Progress (WIP) und kann eventuell fehlerhafte Formatierungen enthalten.
